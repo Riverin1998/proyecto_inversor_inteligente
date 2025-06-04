@@ -6,3 +6,5 @@ beautifulsoup4
 lxml
 python-dotenv
 jupyter
+pyarrow
+certifi
