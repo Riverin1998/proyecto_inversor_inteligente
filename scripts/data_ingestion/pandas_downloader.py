@@ -19,6 +19,14 @@ SNAPSHOT_PATH = os.getenv("SNAPSHOT_OUTPUT", "data/processed/precios_diarios.csv
 os.makedirs(DEFAULT_OUTPUT_DIR, exist_ok=True)
 os.makedirs(os.path.dirname(SNAPSHOT_PATH), exist_ok=True)
 
+# 🧼 LIMPIEZA DE COLUMNAS
+def clean_dataframe(df):
+    if isinstance(df.columns, pd.MultiIndex):
+        df.columns = [col[0].strip() if isinstance(col, tuple) else col.strip() for col in df.columns]
+    else:
+        df.columns = [col.strip() for col in df.columns]
+    return df
+
 # 🔎 OBTENER TICKERS
 def get_sp500_tickers():
     url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
@@ -53,8 +61,12 @@ def get_last_saved_date(ticker, output_dir=DEFAULT_OUTPUT_DIR):
         return None
     try:
         df = pd.read_parquet(path)
+        df = clean_dataframe(df)
+        if "Date" not in df.columns:
+            raise KeyError("Date column not found")
         return pd.to_datetime(df["Date"]).max().date()
-    except Exception:
+    except Exception as e:
+        logging.warning(f"⚠️ Error leyendo {path}: {e}")
         return None
 
 # 📥 DESCARGA DATOS HISTÓRICOS Y SNAPSHOT INCREMENTAL
@@ -69,14 +81,17 @@ def download_ticker_incremental(ticker, start=DEFAULT_START_DATE, end=DEFAULT_EN
         return None
 
     df_new.reset_index(inplace=True)
+    df_new = clean_dataframe(df_new)
     df_new["Ticker"] = ticker
     path = os.path.join(output_dir, f"{ticker.replace('.', '_')}.parquet")
 
     if last_date:
         try:
             df_old = pd.read_parquet(path)
+            df_old = clean_dataframe(df_old)
             df_combined = pd.concat([df_old, df_new]).drop_duplicates(subset=["Date"]).sort_values("Date")
-        except Exception:
+        except Exception as e:
+            logging.warning(f"⚠️ Error leyendo/parsing {path}, se sobrescribirá: {e}")
             df_combined = df_new
     else:
         df_combined = df_new
@@ -87,7 +102,7 @@ def download_ticker_incremental(ticker, start=DEFAULT_START_DATE, end=DEFAULT_EN
     last_row = df_combined.sort_values(by="Date").iloc[-1]
     snapshot = {
         "ticker": ticker,
-        "date": pd.to_datetime(last_row["Date"]).strftime("%Y-%m-%d") if not isinstance(last_row["Date"], str) else last_row["Date"],
+        "date": str(pd.to_datetime(last_row["Date"]).date()),
         "open": last_row["Open"],
         "close": last_row["Close"],
         "high": last_row["High"],
