@@ -6,6 +6,7 @@ import pandas as pd
 from datetime import datetime
 
 DATA_DIR = "data/fundamentals/"
+PRICE_DIR = "data/historical/"
 
 def load_json_data(filepath):
     with open(filepath, 'r') as f:
@@ -18,30 +19,33 @@ def process_fundamentals(filepath):
     income = {pd.to_datetime(x["date"]).year: x for x in data.get("income_statement", [])}
     balance = {pd.to_datetime(x["date"]).year: x for x in data.get("balance_sheet", [])}
     ratios = data.get("ratios", [])
+    profile = data.get("profile", [{}])[0]
 
     rows = []
 
-    for year_data in ratios:
+    for year in sorted(ratios):
         try:
-            date = year_data.get("date")
-            year = pd.to_datetime(date).year
+            r = ratios[year]
+            i = income.get(year, {})
+            b = balance.get(year, {})
 
-            # Buscar EPS desde income_statement
-            eps = float(income.get(year, {}).get("eps", 0))
-
-            # Calcular BVPS desde balance_sheet
-            equity = float(balance.get(year, {}).get("totalStockholdersEquity", 0))
-            shares = float(income.get(year, {}).get("weightedAverageShsOut", 0))
+            eps = float(i.get("eps", 0))
+            equity = float(b.get("totalStockholdersEquity", 0))
+            shares = float(i.get("weightedAverageShsOut", 0))
             bvps = equity / shares if equity > 0 and shares > 0 else 0
 
-            pe = float(year_data.get("priceEarningsRatio", 0))
-            pb = float(year_data.get("priceToBookRatio", 0))
-            roe = float(year_data.get("returnOnEquity", 0))
-            de_ratio = float(year_data.get("debtEquityRatio", 0))
-            current_ratio = float(year_data.get("currentRatio", 0))
-            dividend_yield = float(year_data.get("dividendYield", 0))
-            net_margin = float(year_data.get("netProfitMargin", 0))
-
+            pe = float(r.get("priceEarningsRatio", 0))
+            pb = float(r.get("priceToBookRatio", 0))
+            roe = float(r.get("returnOnEquity", 0))
+            de_ratio = float(r.get("debtEquityRatio", 0))
+            current_ratio = float(r.get("currentRatio", 0))
+            dividend_yield = float(r.get("dividendYield", 0))
+            net_margin = float(r.get("netProfitMargin", 0))
+            payout_ratio = float(r.get("payoutRatio", 0))
+            asset_turnover = float(r.get("assetTurnover", 0))
+            price_to_sales = float(r.get("priceSalesRatio", 0))
+            free_cash_flow_per_share = float(r.get("freeCashFlowPerShare", 0))
+            operating_cash_flow_per_share = float(r.get("operatingCashFlowPerShare", 0))
             graham_number = (22.5 * eps * bvps) ** 0.5 if eps > 0 and bvps > 0 else None
 
             rows.append({
@@ -55,11 +59,16 @@ def process_fundamentals(filepath):
                 "Debt/Equity": de_ratio,
                 "Current Ratio": current_ratio,
                 "Dividend Yield": dividend_yield,
+                "Payout Ratio": payout_ratio,
                 "Net Margin": net_margin,
-                "Graham Number": graham_number,
+                "Asset Turnover": asset_turnover,
+                "Price/Sales": price_to_sales,
+                "Free CF/Share": free_cash_flow_per_share,
+                "Operating CF/Share": operating_cash_flow_per_share,
+                "Graham Number": graham_number
             })
         except Exception as e:
-            print(f"⚠️ Error en {ticker} año {year_data.get('date')}: {e}")
+            print(f"⚠️ Error en {ticker} año {year}: {e}")
 
     return pd.DataFrame(rows)
 
@@ -86,8 +95,26 @@ def load_all_fundamentals(data_dir=DATA_DIR):
 
     return combined
 
+def load_latest_price(ticker, price_dir=PRICE_DIR):
+    filepath = os.path.join(price_dir, f"{ticker.replace('.', '_')}.parquet")
+    if not os.path.exists(filepath):
+        return None
+    try:
+        df = pd.read_parquet(filepath)
+        df = df.sort_values("Date")
+        return df.iloc[-1]["Close"]
+    except Exception as e:
+        print(f"⚠️ Error cargando precio para {ticker}: {e}")
+        return None
+
+
 if __name__ == "__main__":
     df = load_all_fundamentals()
+    # Añadir precio actual y margen respecto al Número de Graham
+    df["Precio Actual"] = df["ticker"].apply(load_latest_price)
+    df["Margen Graham (%)"] = ((df["Graham Number"] - df["Precio Actual"]) / df["Precio Actual"]) * 100
+    df["Margen Graham (%)"] = df["Margen Graham (%)"].round(2)
+
     output_path = "data/processed/fundamentals_evolucion.csv"
     df.to_csv(output_path, index=False)
     print(f"✅ Guardado CSV con evolución fundamental: {output_path}")

@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "ATO",
-            "price": 152.15,
+            "price": 152.35,
             "beta": 0.703,
-            "volAvg": 1160833,
-            "mktCap": 24167049550,
+            "volAvg": 1160114,
+            "mktCap": 24198816950,
             "lastDiv": 3.415,
             "range": "113.46-167.45",
-            "changes": -2.46,
+            "changes": 0.2,
             "companyName": "Atmos Energy Corporation",
             "currency": "USD",
             "cik": "0000731802",

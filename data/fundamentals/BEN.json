@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "BEN",
-            "price": 21.32,
-            "beta": 1.419,
-            "volAvg": 5207726,
-            "mktCap": 11204107699,
+            "price": 21.75,
+            "beta": 1.458,
+            "volAvg": 5165911,
+            "mktCap": 11430081728,
             "lastDiv": 1.26,
             "range": "16.25-24.37",
-            "changes": 0.02,
+            "changes": 0.39,
             "companyName": "Franklin Resources, Inc.",
             "currency": "USD",
             "cik": "0000038777",

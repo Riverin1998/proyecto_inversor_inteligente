@@ -7,7 +7,7 @@ import requests
 import logging
 from datetime import datetime
 from dotenv import load_dotenv
-from pandas_downloader import get_sp500_tickers, get_ibex35_tickers
+from data_ingestion.pandas_downloader import get_sp500_tickers, get_ibex35_tickers
 
 # 📌 CONFIGURACIÓN GLOBAL
 load_dotenv(dotenv_path="config.env")

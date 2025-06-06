@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "ALB",
-            "price": 59.7,
+            "price": 58.64,
             "beta": 1.614,
-            "volAvg": 3415592,
-            "mktCap": 7024361700,
+            "volAvg": 3424149,
+            "mktCap": 6899641040,
             "lastDiv": 1.615,
-            "range": "49.43-120.28",
-            "changes": 2.69,
+            "range": "49.43-118.8",
+            "changes": -1.06,
             "companyName": "Albemarle Corporation",
             "currency": "USD",
             "cik": "0000915913",

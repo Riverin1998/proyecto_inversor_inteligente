@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "ALL",
-            "price": 206.79,
+            "price": 206.65,
             "beta": 0.345,
-            "volAvg": 1747604,
-            "mktCap": 54761507430,
+            "volAvg": 1736307,
+            "mktCap": 54724433050,
             "lastDiv": 2.84,
             "range": "156.66-213.18",
-            "changes": -4.47,
+            "changes": -0.14,
             "companyName": "The Allstate Corporation",
             "currency": "USD",
             "cik": "0000899051",

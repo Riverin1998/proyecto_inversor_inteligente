@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "AEP",
-            "price": 101.85,
+            "price": 101.77,
             "beta": 0.41,
-            "volAvg": 4165792,
-            "mktCap": 54407760750,
+            "volAvg": 4122753,
+            "mktCap": 54365025150,
             "lastDiv": 3.67,
             "range": "85.93-110.48",
-            "changes": -0.98,
+            "changes": -0.08,
             "companyName": "American Electric Power Company, Inc.",
             "currency": "USD",
             "cik": "0000004904",

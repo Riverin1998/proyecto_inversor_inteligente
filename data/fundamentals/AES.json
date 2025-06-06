@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "AES",
-            "price": 10.17,
+            "price": 10.51,
             "beta": 0.939,
-            "volAvg": 15765187,
-            "mktCap": 7240256910,
+            "volAvg": 15816266,
+            "mktCap": 7482310730,
             "lastDiv": 0.6969,
-            "range": "9.46-21.12",
-            "changes": -0.1,
+            "range": "9.46-20.63",
+            "changes": 0.34,
             "companyName": "The AES Corporation",
             "currency": "USD",
             "cik": "0000874761",

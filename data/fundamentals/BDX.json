@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "BDX",
-            "price": 170.94,
+            "price": 171.03,
             "beta": 0.279,
-            "volAvg": 2879376,
-            "mktCap": 48992600580,
+            "volAvg": 2902763,
+            "mktCap": 49018395210,
             "lastDiv": 3.98,
             "range": "163.33-251.99",
-            "changes": 0.28,
+            "changes": 0.09,
             "companyName": "Becton, Dickinson and Company",
             "currency": "USD",
             "cik": "0000010795",
