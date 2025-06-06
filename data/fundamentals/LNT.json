@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "LNT",
-            "price": 61.94,
-            "beta": 0.577,
-            "volAvg": 2222125,
-            "mktCap": 15910899378,
+            "price": 60.68,
+            "beta": 0.576,
+            "volAvg": 2216090,
+            "mktCap": 15587235619,
             "lastDiv": 1.975,
             "range": "49.25-66.54",
-            "changes": -0.13,
+            "changes": -1.26,
             "companyName": "Alliant Energy Corporation",
             "currency": "USD",
             "cik": "0000352541",

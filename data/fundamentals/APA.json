@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "APA",
-            "price": 18.27,
-            "beta": 1.19,
-            "volAvg": 8589966,
-            "mktCap": 6592638150,
+            "price": 17.92,
+            "beta": 1.246,
+            "volAvg": 8490122,
+            "mktCap": 6466342400,
             "lastDiv": 1,
             "range": "13.58-33.41",
-            "changes": 0.94,
+            "changes": -0.35,
             "companyName": "APA Corporation",
             "currency": "USD",
             "cik": "0001841666",

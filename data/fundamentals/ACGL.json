@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "ACGL",
-            "price": 95.82,
+            "price": 94.75,
             "beta": 0.516,
-            "volAvg": 1648290,
-            "mktCap": 35909024100,
+            "volAvg": 1633596,
+            "mktCap": 35508036250,
             "lastDiv": 5,
             "range": "82.49-116.47",
-            "changes": -0.45,
+            "changes": -1.07,
             "companyName": "Arch Capital Group Ltd.",
             "currency": "USD",
             "cik": "0000947484",

@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "AWK",
-            "price": 141.86,
-            "beta": 0.728,
-            "volAvg": 1612038,
-            "mktCap": 27664402320,
+            "price": 138.84,
+            "beta": 0.698,
+            "volAvg": 1591582,
+            "mktCap": 27075466080,
             "lastDiv": 3.1225,
             "range": "118.74-155.5",
-            "changes": -0.56,
+            "changes": -3.02,
             "companyName": "American Water Works Company, Inc.",
             "currency": "USD",
             "cik": "0001410636",

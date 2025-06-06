@@ -2,13 +2,13 @@
     "profile": [
         {
             "symbol": "AEE",
-            "price": 97.32,
-            "beta": 0.524,
-            "volAvg": 1856171,
-            "mktCap": 26924745840,
+            "price": 96.5,
+            "beta": 0.505,
+            "volAvg": 1841819,
+            "mktCap": 26697883000,
             "lastDiv": 2.72,
             "range": "69.39-104.1",
-            "changes": 0.17,
+            "changes": -0.82,
             "companyName": "Ameren Corporation",
             "currency": "USD",
             "cik": "0001002910",
