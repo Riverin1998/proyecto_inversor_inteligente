@@ -16,3 +16,10 @@ __pycache__/
 
 
 config.env
+
+# .gitignore
+proyecto_inversor_inteligente.git/
+*.pack
+*.idx
+*.bitmap
+
