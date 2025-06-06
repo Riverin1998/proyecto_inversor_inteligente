@@ -18,8 +18,20 @@ def process_fundamentals(filepath):
 
     income = {pd.to_datetime(x["date"]).year: x for x in data.get("income_statement", [])}
     balance = {pd.to_datetime(x["date"]).year: x for x in data.get("balance_sheet", [])}
-    ratios = data.get("ratios", [])
+    ratios_raw = data.get("ratios", [])
     profile = data.get("profile", [{}])[0]
+
+    if not isinstance(ratios_raw, list):
+        print(f"⚠️ {ticker}: 'ratios' no es una lista. Saltando...")
+        return pd.DataFrame()
+
+    ratios = {}
+    for x in ratios_raw:
+        try:
+            year = pd.to_datetime(x["date"]).year
+            ratios[year] = x
+        except Exception as e:
+            print(f"⚠️ {ticker}: Error procesando fecha en ratios: {e}")
 
     rows = []
 
