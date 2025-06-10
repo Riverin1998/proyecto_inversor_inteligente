@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ANSS",
-            "price": 338.35,
             "beta": 1.189,
-            "volAvg": 694642,
-            "mktCap": 29746412435,
             "lastDiv": 0,
             "range": "275.06-363.03",
-            "changes": 1.74,
             "companyName": "ANSYS, Inc.",
             "currency": "USD",
             "cik": "0001013462",
@@ -28,8 +24,6 @@
             "city": "Canonsburg",
             "state": "PA",
             "zip": "15317",
-            "dcfDiff": 113.6625,
-            "dcf": 224.6874987373348,
             "image": "https://images.financialmodelingprep.com/symbol/ANSS.png",
             "ipoDate": "1996-06-20",
             "defaultImage": false,

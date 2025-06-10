@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ABBV",
-            "price": 187.47,
             "beta": 0.491,
-            "volAvg": 7907546,
-            "mktCap": 331147008000,
             "lastDiv": 6.38,
             "range": "163.52-218.66",
-            "changes": 0.13,
             "companyName": "AbbVie Inc.",
             "currency": "USD",
             "cik": "0001551152",
@@ -28,8 +24,6 @@
             "city": "North Chicago",
             "state": "IL",
             "zip": "60064-6400",
-            "dcfDiff": -359.45736,
-            "dcf": 546.9273604323655,
             "image": "https://images.financialmodelingprep.com/symbol/ABBV.png",
             "ipoDate": "2013-01-02",
             "defaultImage": false,

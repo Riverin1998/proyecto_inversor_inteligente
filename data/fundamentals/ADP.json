@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ADP",
-            "price": 326.23,
             "beta": 0.798,
-            "volAvg": 1857352,
-            "mktCap": 132424260290,
             "lastDiv": 6.16,
-            "range": "231.27-327.99",
-            "changes": 0.02,
+            "range": "231.27-329.93",
             "companyName": "Automatic Data Processing, Inc.",
             "currency": "USD",
             "cik": "0000008670",
@@ -28,8 +24,6 @@
             "city": "Roseland",
             "state": "NJ",
             "zip": "07068",
-            "dcfDiff": 66.51468,
-            "dcf": 259.71532152807686,
             "image": "https://images.financialmodelingprep.com/symbol/ADP.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

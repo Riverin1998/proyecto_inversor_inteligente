@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ADM",
-            "price": 46.98,
             "beta": 0.656,
-            "volAvg": 4322411,
-            "mktCap": 22571541000,
             "lastDiv": 2.02,
             "range": "40.98-66.08",
-            "changes": -0.26,
             "companyName": "Archer-Daniels-Midland Company",
             "currency": "USD",
             "cik": "0000007084",
@@ -28,8 +24,6 @@
             "city": "Chicago",
             "state": "IL",
             "zip": "60601",
-            "dcfDiff": -17.87445,
-            "dcf": 64.8544535422708,
             "image": "https://images.financialmodelingprep.com/symbol/ADM.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

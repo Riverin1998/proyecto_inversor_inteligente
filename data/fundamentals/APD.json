@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "APD",
-            "price": 276.22,
             "beta": 0.873,
-            "volAvg": 1267028,
-            "mktCap": 61471103680,
             "lastDiv": 7.1,
             "range": "243.69-341.14",
-            "changes": -3.99,
             "companyName": "Air Products and Chemicals, Inc.",
             "currency": "USD",
             "cik": "0000002969",
@@ -28,8 +24,6 @@
             "city": "Allentown",
             "state": "PA",
             "zip": "18106-5500",
-            "dcfDiff": 409.23214,
-            "dcf": -133.0121361116003,
             "image": "https://images.financialmodelingprep.com/symbol/APD.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

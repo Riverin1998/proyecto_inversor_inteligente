@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AWK",
-            "price": 140.02,
             "beta": 0.698,
-            "volAvg": 1580785,
-            "mktCap": 27305580240,
             "lastDiv": 3.1225,
             "range": "118.74-155.5",
-            "changes": 1.18,
             "companyName": "American Water Works Company, Inc.",
             "currency": "USD",
             "cik": "0001410636",
@@ -28,8 +24,6 @@
             "city": "Camden",
             "state": "NJ",
             "zip": "08102-1658",
-            "dcfDiff": 8.66264,
-            "dcf": 148.357,
             "image": "https://images.financialmodelingprep.com/symbol/AWK.png",
             "ipoDate": "2008-04-23",
             "defaultImage": false,

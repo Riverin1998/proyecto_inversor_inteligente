@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AFL",
-            "price": 102.21,
             "beta": 0.807,
-            "volAvg": 2063992,
-            "mktCap": 55259325450,
             "lastDiv": 2.32,
             "range": "86.46-115.5",
-            "changes": -0.62,
             "companyName": "Aflac Incorporated",
             "currency": "USD",
             "cik": "0000004977",
@@ -28,8 +24,6 @@
             "city": "Columbus",
             "state": "GA",
             "zip": "31999",
-            "dcfDiff": 2.03057,
-            "dcf": 100.17942628654102,
             "image": "https://images.financialmodelingprep.com/symbol/AFL.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

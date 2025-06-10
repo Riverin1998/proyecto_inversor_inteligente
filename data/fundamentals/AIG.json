@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AIG",
-            "price": 85.42,
             "beta": 0.658,
-            "volAvg": 4794001,
-            "mktCap": 49230108600,
             "lastDiv": 1.6,
             "range": "69-88.07",
-            "changes": 0.41,
             "companyName": "American International Group, Inc.",
             "currency": "USD",
             "cik": "0000005272",
@@ -28,8 +24,6 @@
             "city": "New York City",
             "state": "NY",
             "zip": "10020",
-            "dcfDiff": 46.60216,
-            "dcf": 38.81783964561244,
             "image": "https://images.financialmodelingprep.com/symbol/AIG.png",
             "ipoDate": "1973-01-02",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AON",
-            "price": 370.49,
             "beta": 0.864,
-            "volAvg": 1426509,
-            "mktCap": 80003610600,
             "lastDiv": 2.77,
-            "range": "282.98-412.97",
-            "changes": -2.13,
+            "range": "285.35-412.97",
             "companyName": "Aon plc",
             "currency": "USD",
             "cik": "0000315293",
@@ -28,8 +24,6 @@
             "city": "Dublin",
             "state": null,
             "zip": "D01 K0Y8",
-            "dcfDiff": 26.26816,
-            "dcf": 344.22184187837604,
             "image": "https://images.financialmodelingprep.com/symbol/AON.png",
             "ipoDate": "1980-06-02",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ABNB",
-            "price": 137.29,
             "beta": 1.144,
-            "volAvg": 5921914,
-            "mktCap": 86000206036,
             "lastDiv": 0,
             "range": "99.88-163.93",
-            "changes": 3.78,
             "companyName": "Airbnb, Inc.",
             "currency": "USD",
             "cik": "0001559720",
@@ -28,8 +24,6 @@
             "city": "San Francisco",
             "state": "CA",
             "zip": "94103",
-            "dcfDiff": -206.74,
-            "dcf": 344.0299977866306,
             "image": "https://images.financialmodelingprep.com/symbol/ABNB.png",
             "ipoDate": "2020-12-10",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AME",
-            "price": 176.93,
             "beta": 1.11,
-            "volAvg": 1406853,
-            "mktCap": 40849421470,
             "lastDiv": 1.15,
             "range": "145.02-198.33",
-            "changes": -0.28,
             "companyName": "AMETEK, Inc.",
             "currency": "USD",
             "cik": "0001037868",
@@ -28,8 +24,6 @@
             "city": "Berwyn",
             "state": "PA",
             "zip": "19312-1177",
-            "dcfDiff": -4.54011,
-            "dcf": 181.47010832228128,
             "image": "https://images.financialmodelingprep.com/symbol/AME.png",
             "ipoDate": "1984-07-19",
             "defaultImage": false,

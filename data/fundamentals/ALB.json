@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ALB",
-            "price": 58.64,
             "beta": 1.614,
-            "volAvg": 3424149,
-            "mktCap": 6899641040,
             "lastDiv": 1.615,
             "range": "49.43-118.8",
-            "changes": -1.06,
             "companyName": "Albemarle Corporation",
             "currency": "USD",
             "cik": "0000915913",
@@ -28,8 +24,6 @@
             "city": "Charlotte",
             "state": "NC",
             "zip": "28209",
-            "dcfDiff": 150.51684,
-            "dcf": -70.84683826762621,
             "image": "https://images.financialmodelingprep.com/symbol/ALB.png",
             "ipoDate": "1994-02-22",
             "defaultImage": false,

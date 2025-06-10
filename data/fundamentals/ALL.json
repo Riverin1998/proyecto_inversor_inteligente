@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ALL",
-            "price": 206.65,
             "beta": 0.345,
-            "volAvg": 1736307,
-            "mktCap": 54724433050,
-            "lastDiv": 2.84,
+            "lastDiv": 3.84,
             "range": "156.66-213.18",
-            "changes": -0.14,
             "companyName": "The Allstate Corporation",
             "currency": "USD",
             "cik": "0000899051",
@@ -28,8 +24,6 @@
             "city": "Northbrook",
             "state": "IL",
             "zip": "60062",
-            "dcfDiff": -131.87447,
-            "dcf": 341.6544677282579,
             "image": "https://images.financialmodelingprep.com/symbol/ALL.png",
             "ipoDate": "1993-06-03",
             "defaultImage": false,

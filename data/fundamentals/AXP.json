@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AXP",
-            "price": 295.96,
             "beta": 1.254,
-            "volAvg": 3395628,
-            "mktCap": 207346320440,
             "lastDiv": 2.92,
             "range": "220.43-326.27",
-            "changes": 0.03,
             "companyName": "American Express Company",
             "currency": "USD",
             "cik": "0000004962",
@@ -28,8 +24,6 @@
             "city": "New York City",
             "state": "NY",
             "zip": "10285",
-            "dcfDiff": -249.70522,
-            "dcf": 545.6652210535152,
             "image": "https://images.financialmodelingprep.com/symbol/AXP.png",
             "ipoDate": "1972-06-01",
             "defaultImage": false,

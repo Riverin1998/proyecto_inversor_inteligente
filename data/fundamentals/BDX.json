@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BDX",
-            "price": 171.03,
             "beta": 0.279,
-            "volAvg": 2902763,
-            "mktCap": 49018395210,
             "lastDiv": 3.98,
             "range": "163.33-251.99",
-            "changes": 0.09,
             "companyName": "Becton, Dickinson and Company",
             "currency": "USD",
             "cik": "0000010795",
@@ -28,8 +24,6 @@
             "city": "Franklin Lakes",
             "state": "NJ",
             "zip": "07417-1880",
-            "dcfDiff": -441.68152,
-            "dcf": 668.5515166585838,
             "image": "https://images.financialmodelingprep.com/symbol/BDX.png",
             "ipoDate": "1973-02-21",
             "defaultImage": false,

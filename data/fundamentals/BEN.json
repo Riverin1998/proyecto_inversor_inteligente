@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BEN",
-            "price": 21.75,
             "beta": 1.458,
-            "volAvg": 5165911,
-            "mktCap": 11430081728,
             "lastDiv": 1.26,
             "range": "16.25-24.37",
-            "changes": 0.39,
             "companyName": "Franklin Resources, Inc.",
             "currency": "USD",
             "cik": "0000038777",
@@ -28,8 +24,6 @@
             "city": "San Mateo",
             "state": "CA",
             "zip": "94403",
-            "dcfDiff": -35.93269,
-            "dcf": 54.49769453211928,
             "image": "https://images.financialmodelingprep.com/symbol/BEN.png",
             "ipoDate": "1983-09-23",
             "defaultImage": false,

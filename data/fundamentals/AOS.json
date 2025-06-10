@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AOS",
-            "price": 63.8,
             "beta": 1.213,
-            "volAvg": 1699136,
-            "mktCap": 9066553307,
             "lastDiv": 1.34,
             "range": "58.83-92.45",
-            "changes": -0.5,
             "companyName": "A. O. Smith Corporation",
             "currency": "USD",
             "cik": "0000091142",
@@ -28,8 +24,6 @@
             "city": "Milwaukee",
             "state": "WI",
             "zip": "53224-9508",
-            "dcfDiff": -15.15863,
-            "dcf": 78.9586332172534,
             "image": "https://images.financialmodelingprep.com/symbol/AOS.png",
             "ipoDate": "1983-09-30",
             "defaultImage": false,

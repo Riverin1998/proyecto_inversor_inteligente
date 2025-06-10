@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ABT",
-            "price": 133.94,
             "beta": 0.737,
-            "volAvg": 7103166,
-            "mktCap": 233034169600,
             "lastDiv": 2.28,
             "range": "99.71-141.23",
-            "changes": 0.98,
             "companyName": "Abbott Laboratories",
             "currency": "USD",
             "cik": "0000001800",
@@ -28,8 +24,6 @@
             "city": "North Chicago",
             "state": "IL",
             "zip": "60064-6400",
-            "dcfDiff": 1.89372,
-            "dcf": 132.04628331633782,
             "image": "https://images.financialmodelingprep.com/symbol/ABT.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

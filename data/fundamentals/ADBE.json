@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ADBE",
-            "price": 415.2,
             "beta": 1.545,
-            "volAvg": 3830023,
-            "mktCap": 176958240000,
             "lastDiv": 0,
             "range": "332.01-587.75",
-            "changes": 1.29,
             "companyName": "Adobe Inc.",
             "currency": "USD",
             "cik": "0000796343",
@@ -28,8 +24,6 @@
             "city": "San Jose",
             "state": "CA",
             "zip": "95110-2704",
-            "dcfDiff": -9.06546,
-            "dcf": 424.2654645558571,
             "image": "https://images.financialmodelingprep.com/symbol/ADBE.png",
             "ipoDate": "1986-08-13",
             "defaultImage": false,

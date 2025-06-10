@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AVB",
-            "price": 202.97,
             "beta": 0.872,
-            "volAvg": 882750,
-            "mktCap": 28896432960,
             "lastDiv": 6.85,
             "range": "180.4-239.29",
-            "changes": -1.64,
             "companyName": "AvalonBay Communities, Inc.",
             "currency": "USD",
             "cik": "0000915912",
@@ -28,8 +24,6 @@
             "city": "Arlington",
             "state": "VA",
             "zip": "22203",
-            "dcfDiff": -90.7297,
-            "dcf": 293.6996972348173,
             "image": "https://images.financialmodelingprep.com/symbol/AVB.png",
             "ipoDate": "1994-03-11",
             "defaultImage": false,

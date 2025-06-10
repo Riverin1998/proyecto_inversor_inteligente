@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AEP",
-            "price": 101.77,
             "beta": 0.41,
-            "volAvg": 4122753,
-            "mktCap": 54365025150,
             "lastDiv": 3.67,
             "range": "85.93-110.48",
-            "changes": -0.08,
             "companyName": "American Electric Power Company, Inc.",
             "currency": "USD",
             "cik": "0000004904",
@@ -28,8 +24,6 @@
             "city": "Columbus",
             "state": "OH",
             "zip": "43215-2373",
-            "dcfDiff": -15.34969,
-            "dcf": 121.69969436117104,
             "image": "https://images.financialmodelingprep.com/symbol/AEP.png",
             "ipoDate": "1962-01-02",
             "defaultImage": false,

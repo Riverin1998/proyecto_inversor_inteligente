@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AEE",
-            "price": 96.02,
             "beta": 0.505,
-            "volAvg": 1861496,
-            "mktCap": 26565085240,
             "lastDiv": 2.72,
             "range": "69.39-104.1",
-            "changes": -0.48,
             "companyName": "Ameren Corporation",
             "currency": "USD",
             "cik": "0001002910",
@@ -28,8 +24,6 @@
             "city": "Saint Louis",
             "state": "MO",
             "zip": "63103",
-            "dcfDiff": 180.66906,
-            "dcf": -80.21905955288267,
             "image": "https://images.financialmodelingprep.com/symbol/AEE.png",
             "ipoDate": "1998-01-02",
             "defaultImage": false,

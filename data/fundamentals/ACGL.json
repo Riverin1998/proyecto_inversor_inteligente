@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ACGL",
-            "price": 94.57,
             "beta": 0.516,
-            "volAvg": 1604233,
-            "mktCap": 35440580350,
             "lastDiv": 5,
             "range": "82.49-116.47",
-            "changes": -0.18,
             "companyName": "Arch Capital Group Ltd.",
             "currency": "USD",
             "cik": "0000947484",
@@ -28,8 +24,6 @@
             "city": "Pembroke",
             "state": null,
             "zip": "HM 08",
-            "dcfDiff": -267.52071,
-            "dcf": 345.6167086864502,
             "image": "https://images.financialmodelingprep.com/symbol/ACGL.png",
             "ipoDate": "1995-09-14",
             "defaultImage": false,

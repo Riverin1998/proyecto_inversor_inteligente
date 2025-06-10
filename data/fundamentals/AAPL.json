@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AAPL",
-            "price": 200.63,
             "beta": 1.211,
-            "volAvg": 61977949,
-            "mktCap": 2996569554000,
             "lastDiv": 1.01,
             "range": "169.21-260.1",
-            "changes": -2.19,
             "companyName": "Apple Inc.",
             "currency": "USD",
             "cik": "0000320193",
@@ -28,8 +24,6 @@
             "city": "Cupertino",
             "state": "CA",
             "zip": "95014",
-            "dcfDiff": 38.68337,
-            "dcf": 161.94662709105373,
             "image": "https://images.financialmodelingprep.com/symbol/AAPL.png",
             "ipoDate": "1980-12-12",
             "defaultImage": false,

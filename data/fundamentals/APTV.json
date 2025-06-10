@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "APTV",
-            "price": 65.48,
             "beta": 1.473,
-            "volAvg": 3182325,
-            "mktCap": 14256960400,
             "lastDiv": 0,
-            "range": "47.19-81.87",
-            "changes": -0.4,
+            "range": "47.19-80.95",
             "companyName": "Aptiv PLC",
             "currency": "USD",
             "cik": "0001521332",
@@ -28,8 +24,6 @@
             "city": "Schaffhausen",
             "state": null,
             "zip": "D02 VY79",
-            "dcfDiff": -33.18686,
-            "dcf": 98.66685723526041,
             "image": "https://images.financialmodelingprep.com/symbol/APTV.png",
             "ipoDate": "2011-11-17",
             "defaultImage": false,

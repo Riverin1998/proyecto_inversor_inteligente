@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ATO",
-            "price": 152.35,
             "beta": 0.703,
-            "volAvg": 1160114,
-            "mktCap": 24198816950,
             "lastDiv": 3.415,
             "range": "113.46-167.45",
-            "changes": 0.2,
             "companyName": "Atmos Energy Corporation",
             "currency": "USD",
             "cik": "0000731802",
@@ -28,8 +24,6 @@
             "city": "Dallas",
             "state": "TX",
             "zip": "75240",
-            "dcfDiff": 0.739018,
-            "dcf": 116.689,
             "image": "https://images.financialmodelingprep.com/symbol/ATO.png",
             "ipoDate": "1983-12-28",
             "defaultImage": false,

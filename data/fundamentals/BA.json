@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BA",
-            "price": 209.02,
             "beta": 1.418,
-            "volAvg": 9245863,
-            "mktCap": 157602125100,
             "lastDiv": 0,
-            "range": "128.88-215.8",
-            "changes": -2.96,
+            "range": "128.88-218.8",
             "companyName": "The Boeing Company",
             "currency": "USD",
             "cik": "0000012927",
@@ -28,8 +24,6 @@
             "city": "Arlington",
             "state": "VA",
             "zip": "22202",
-            "dcfDiff": 308.60339,
-            "dcf": -132.37339494704082,
             "image": "https://images.financialmodelingprep.com/symbol/BA.png",
             "ipoDate": "1962-01-02",
             "defaultImage": false,

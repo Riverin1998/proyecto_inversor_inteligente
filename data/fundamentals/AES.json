@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AES",
-            "price": 10.51,
             "beta": 0.939,
-            "volAvg": 15816266,
-            "mktCap": 7482310730,
             "lastDiv": 0.6969,
             "range": "9.46-20.63",
-            "changes": 0.34,
             "companyName": "The AES Corporation",
             "currency": "USD",
             "cik": "0000874761",
@@ -28,8 +24,6 @@
             "city": "Arlington",
             "state": "VA",
             "zip": "22203",
-            "dcfDiff": 2.51168,
-            "dcf": 29.4817,
             "image": "https://images.financialmodelingprep.com/symbol/AES.png",
             "ipoDate": "1991-06-26",
             "defaultImage": false,

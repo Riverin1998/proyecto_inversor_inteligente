@@ -97,6 +97,11 @@ def download_fundamentals(ticker: str, output_dir: str = OUTPUT_DIR) -> bool:
         else:
             logging.warning(f"❌ {ticker} - Error {response.status_code} en {name}")
 
+        # 🧼 Eliminar campos volátiles del profile
+    if "profile" in data and isinstance(data["profile"], list) and data["profile"]:
+        for key in ["price", "volAvg", "mktCap", "changes", "dcf", "dcfDiff"]:
+            data["profile"][0].pop(key, None)
+
     output_path = os.path.join(output_dir, f"{ticker.upper()}.json")
     if not data or all(not v for v in data.values()):
         logging.warning(f"⚠️ {ticker} - Datos vacíos. No se guardará.")

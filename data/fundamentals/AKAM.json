@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AKAM",
-            "price": 76.14,
             "beta": 0.769,
-            "volAvg": 2496644,
-            "mktCap": 11132124840,
             "lastDiv": 0,
             "range": "67.51-106.8",
-            "changes": -0.46,
             "companyName": "Akamai Technologies, Inc.",
             "currency": "USD",
             "cik": "0001086222",
@@ -28,8 +24,6 @@
             "city": "Cambridge",
             "state": "MA",
             "zip": "02142",
-            "dcfDiff": -135.14347,
-            "dcf": 211.28347491494557,
             "image": "https://images.financialmodelingprep.com/symbol/AKAM.png",
             "ipoDate": "1999-10-29",
             "defaultImage": false,

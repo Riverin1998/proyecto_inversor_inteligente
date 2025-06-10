@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AXON",
-            "price": 788.36,
             "beta": 1.285,
-            "volAvg": 659612,
-            "mktCap": 61374456688,
             "lastDiv": 0,
-            "range": "278.24-793.24",
-            "changes": 8.36,
+            "range": "279.02-806.64",
             "companyName": "Axon Enterprise, Inc.",
             "currency": "USD",
             "cik": "0001069183",
@@ -28,8 +24,6 @@
             "city": "Scottsdale",
             "state": "AZ",
             "zip": "85255",
-            "dcfDiff": 698.3116,
-            "dcf": 90.04840128398149,
             "image": "https://images.financialmodelingprep.com/symbol/AXON.png",
             "ipoDate": "2001-06-19",
             "defaultImage": false,

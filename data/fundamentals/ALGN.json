@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ALGN",
-            "price": 180.26,
             "beta": 1.64,
-            "volAvg": 1207050,
-            "mktCap": 13066110048,
             "lastDiv": 0,
             "range": "141.74-271.59",
-            "changes": 0.27,
             "companyName": "Align Technology, Inc.",
             "currency": "USD",
             "cik": "0001097149",
@@ -28,8 +24,6 @@
             "city": "Tempe",
             "state": "AZ",
             "zip": "85281",
-            "dcfDiff": -12.64235,
-            "dcf": 192.90234668833497,
             "image": "https://images.financialmodelingprep.com/symbol/ALGN.png",
             "ipoDate": "2001-01-30",
             "defaultImage": false,

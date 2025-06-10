@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "A",
-            "price": 113.94,
             "beta": 1.232,
-            "volAvg": 2298523,
-            "mktCap": 32366366100,
             "lastDiv": 0.968,
             "range": "96.43-153.84",
-            "changes": -1,
             "companyName": "Agilent Technologies, Inc.",
             "currency": "USD",
             "cik": "0001090872",
@@ -28,8 +24,6 @@
             "city": "Santa Clara",
             "state": "CA",
             "zip": "95051",
-            "dcfDiff": 32.60648,
-            "dcf": 81.33352308371194,
             "image": "https://images.financialmodelingprep.com/symbol/A.png",
             "ipoDate": "1999-11-18",
             "defaultImage": false,

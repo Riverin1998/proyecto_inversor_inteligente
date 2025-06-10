@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AMCR",
-            "price": 9.04,
             "beta": 0.733,
-            "volAvg": 37767866,
-            "mktCap": 20840273600,
             "lastDiv": 0.5075,
             "range": "8.37-11.48",
-            "changes": -0.03,
             "companyName": "Amcor plc",
             "currency": "USD",
             "cik": "0001748790",
@@ -28,8 +24,6 @@
             "city": "Zurich",
             "state": null,
             "zip": "8050",
-            "dcfDiff": -2.40189,
-            "dcf": 11.441894020394102,
             "image": "https://images.financialmodelingprep.com/symbol/AMCR.png",
             "ipoDate": "2012-05-15",
             "defaultImage": false,

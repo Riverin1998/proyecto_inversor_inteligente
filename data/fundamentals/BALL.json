@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BALL",
-            "price": 53.49,
             "beta": 1.083,
-            "volAvg": 2731641,
-            "mktCap": 14839088820,
             "lastDiv": 0.8,
-            "range": "43.51-69.72",
-            "changes": 0.25,
+            "range": "43.51-68.85",
             "companyName": "Ball Corporation",
             "currency": "USD",
             "cik": "0000009389",
@@ -28,8 +24,6 @@
             "city": "Westminster",
             "state": "CO",
             "zip": "80021-2510",
-            "dcfDiff": 74.213,
-            "dcf": -20.72299862727811,
             "image": "https://images.financialmodelingprep.com/symbol/BALL.png",
             "ipoDate": "1972-07-13",
             "defaultImage": false,

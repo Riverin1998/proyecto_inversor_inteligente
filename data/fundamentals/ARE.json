@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ARE",
-            "price": 69.55,
             "beta": 1.267,
-            "volAvg": 1729885,
-            "mktCap": 12031384950,
             "lastDiv": 5.24,
             "range": "67.37-130.14",
-            "changes": -1.02,
             "companyName": "Alexandria Real Estate Equities, Inc.",
             "currency": "USD",
             "cik": "0001035443",
@@ -28,8 +24,6 @@
             "city": "Pasadena",
             "state": "CA",
             "zip": "91101",
-            "dcfDiff": 6.38666,
-            "dcf": 63.16334439616854,
             "image": "https://images.financialmodelingprep.com/symbol/ARE.png",
             "ipoDate": "1997-05-28",
             "defaultImage": false,

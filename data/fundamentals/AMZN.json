@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "AMZN",
-            "price": 207.91,
             "beta": 1.334,
-            "volAvg": 50294865,
-            "mktCap": 2207255724000,
             "lastDiv": 0,
             "range": "151.61-242.52",
-            "changes": 0.68,
             "companyName": "Amazon.com, Inc.",
             "currency": "USD",
             "cik": "0001018724",
@@ -28,8 +24,6 @@
             "city": "Seattle",
             "state": "WA",
             "zip": "98109-5210",
-            "dcfDiff": 178.23549,
-            "dcf": 29.674512666006937,
             "image": "https://images.financialmodelingprep.com/symbol/AMZN.png",
             "ipoDate": "1997-05-15",
             "defaultImage": false,
