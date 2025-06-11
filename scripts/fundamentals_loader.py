@@ -12,6 +12,22 @@ def load_json_data(filepath):
     with open(filepath, 'r') as f:
         return json.load(f)
 
+def load_price_after_filing(ticker, filing_date_str, price_dir=PRICE_DIR, days=7):
+    filepath = os.path.join(price_dir, f"{ticker.replace('.', '_')}.parquet")
+    if not os.path.exists(filepath) or not filing_date_str:
+        return None
+    try:
+        df = pd.read_parquet(filepath)
+        df["Date"] = pd.to_datetime(df["Date"])
+        filing_date = pd.to_datetime(filing_date_str)
+        window = df[(df["Date"] >= filing_date) & (df["Date"] <= filing_date + pd.Timedelta(days=days))]
+        if window.empty:
+            return None
+        return window["Close"].mean()
+    except Exception as e:
+        print(f"⚠️ {ticker} error al cargar precio post-filing: {e}")
+        return None
+
 def process_fundamentals(filepath):
     data = load_json_data(filepath)
     ticker = os.path.basename(filepath).replace(".json", "")
@@ -60,6 +76,10 @@ def process_fundamentals(filepath):
             operating_cash_flow_per_share = float(r.get("operatingCashFlowPerShare", 0))
             graham_number = (22.5 * eps * bvps) ** 0.5 if eps > 0 and bvps > 0 else None
 
+            filing_date = i.get("fillingDate")
+            closing_price = load_price_after_filing(ticker, filing_date)
+            margen_graham = ((graham_number - closing_price) / closing_price) * 100 if graham_number and closing_price else None
+            
             rows.append({
                 "ticker": ticker,
                 "year": year,
@@ -77,7 +97,10 @@ def process_fundamentals(filepath):
                 "Price/Sales": price_to_sales,
                 "Free CF/Share": free_cash_flow_per_share,
                 "Operating CF/Share": operating_cash_flow_per_share,
-                "Graham Number": graham_number
+                "Graham Number": graham_number,
+                "Filing Date": filing_date,
+                "Precio Post-Filing": closing_price,
+                "Margen Graham (%)": round(margen_graham, 2) if margen_graham else None
             })
         except Exception as e:
             print(f"⚠️ Error en {ticker} año {year}: {e}")
@@ -107,26 +130,9 @@ def load_all_fundamentals(data_dir=DATA_DIR):
 
     return combined
 
-def load_latest_price(ticker, price_dir=PRICE_DIR):
-    filepath = os.path.join(price_dir, f"{ticker.replace('.', '_')}.parquet")
-    if not os.path.exists(filepath):
-        return None
-    try:
-        df = pd.read_parquet(filepath)
-        df = df.sort_values("Date")
-        return df.iloc[-1]["Close"]
-    except Exception as e:
-        print(f"⚠️ Error cargando precio para {ticker}: {e}")
-        return None
-
 
 if __name__ == "__main__":
     df = load_all_fundamentals()
-    # Añadir precio actual y margen respecto al Número de Graham
-    df["Precio Actual"] = df["ticker"].apply(load_latest_price)
-    df["Margen Graham (%)"] = ((df["Graham Number"] - df["Precio Actual"]) / df["Precio Actual"]) * 100
-    df["Margen Graham (%)"] = df["Margen Graham (%)"].round(2)
-
     output_path = "data/processed/fundamentals_evolucion.csv"
     df.to_csv(output_path, index=False)
     print(f"✅ Guardado CSV con evolución fundamental: {output_path}")
