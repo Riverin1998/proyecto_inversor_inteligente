@@ -49,12 +49,14 @@ def get_last_financial_date(json_path):
         logging.warning(f"⚠️ Error leyendo {json_path}: {e}")
         return None
 
-def needs_update_since_2015(json_path):
+def needs_update_last_5_years(json_path):
     last_date = get_last_financial_date(json_path)
     if not last_date:
         return True
     last_year = int(last_date.split("-")[0])
-    return last_year < datetime.now().year
+    current_year = datetime.now().year
+    return last_year < (current_year - 5 + 1)  # Por ejemplo, en 2025 aceptamos desde 2020
+
 
 def clean_invalid_json_files(directory: str):
     logging.info(f"🧹 Limpiando archivos JSON inválidos en: {directory}")
@@ -117,7 +119,7 @@ def bulk_download_fundamentals(tickers, output_dir=OUTPUT_DIR):
     clean_invalid_json_files(output_dir)
     for i, ticker in enumerate(tickers, 1):
         output_path = os.path.join(output_dir, f"{ticker.upper()}.json")
-        if os.path.exists(output_path) and not needs_update_since_2015(output_path):
+        if os.path.exists(output_path) and not needs_update_last_5_years(output_path):
             logging.info(f"⏭️ {i}/{len(tickers)} - Ya actualizado: {ticker}")
             continue
         logging.info(f"🔄 {i}/{len(tickers)} - Descargando: {ticker}")
