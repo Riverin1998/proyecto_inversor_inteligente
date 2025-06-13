@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CI",
-            "price": 316.64,
             "beta": 0.482,
-            "volAvg": 1801282,
-            "mktCap": 84588159203,
             "lastDiv": 5.71,
             "range": "262.03-370.83",
-            "changes": 4.59,
             "companyName": "Cigna Corporation",
             "currency": "USD",
             "cik": "0001739940",
@@ -28,8 +24,6 @@
             "city": "Bloomfield",
             "state": "CT",
             "zip": "06002",
-            "dcfDiff": -607.01894,
-            "dcf": 913.1489448301966,
             "image": "https://images.financialmodelingprep.com/symbol/CI.png",
             "ipoDate": "1982-03-31",
             "defaultImage": false,

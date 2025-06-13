@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CNP",
-            "price": 37.24,
             "beta": 0.613,
-            "volAvg": 5915401,
-            "mktCap": 24307590720,
             "lastDiv": 0.88,
             "range": "25.41-39.31",
-            "changes": 0.13,
             "companyName": "CenterPoint Energy, Inc.",
             "currency": "USD",
             "cik": "0001130310",
@@ -28,8 +24,6 @@
             "city": "Houston",
             "state": "TX",
             "zip": "77002",
-            "dcfDiff": 36.64559,
-            "dcf": -0.8755901306709597,
             "image": "https://images.financialmodelingprep.com/symbol/CNP.png",
             "ipoDate": "1970-01-02",
             "defaultImage": false,

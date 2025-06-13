@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ESS",
-            "price": 283.9,
             "beta": 0.8,
-            "volAvg": 469717,
-            "mktCap": 18278958280,
             "lastDiv": 9.92,
             "range": "243.85-317.73",
-            "changes": 1.82,
             "companyName": "Essex Property Trust, Inc.",
             "currency": "USD",
             "cik": "0000920522",
@@ -28,8 +24,6 @@
             "city": "San Mateo",
             "state": "CA",
             "zip": "94403",
-            "dcfDiff": -222.44792,
-            "dcf": 506.34792262260515,
             "image": "https://images.financialmodelingprep.com/symbol/ESS.png",
             "ipoDate": "1994-06-07",
             "defaultImage": false,

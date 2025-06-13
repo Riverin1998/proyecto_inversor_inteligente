@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HUM",
-            "price": 231.627,
             "beta": 0.499,
-            "volAvg": 1845857.2,
-            "mktCap": 27955757511,
             "lastDiv": 3.54,
             "range": "212.45-406.46",
-            "changes": 0.237,
             "companyName": "Humana Inc.",
             "currency": "USD",
             "cik": "0000049071",
@@ -28,8 +24,6 @@
             "city": "Louisville",
             "state": "KY",
             "zip": "40202",
-            "dcfDiff": -796.57759,
-            "dcf": 1244.337586009672,
             "image": "https://images.financialmodelingprep.com/symbol/HUM.png",
             "ipoDate": "1981-12-31",
             "defaultImage": false,

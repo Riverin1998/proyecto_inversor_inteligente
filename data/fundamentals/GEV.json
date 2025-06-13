@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GEV",
-            "price": 495.18,
             "beta": 1.5861499,
-            "volAvg": 3898671,
-            "mktCap": 135151829505,
             "lastDiv": 0.5,
             "range": "150.01-500.13",
-            "changes": 10.02,
             "companyName": "GE Vernova Inc.",
             "currency": "USD",
             "cik": "0001996810",
@@ -28,8 +24,6 @@
             "city": "Cambridge",
             "state": "MA",
             "zip": "02141",
-            "dcfDiff": 468.6865,
-            "dcf": 16.473501124704285,
             "image": "https://images.financialmodelingprep.com/symbol/GEV.png",
             "ipoDate": "2024-03-27",
             "defaultImage": true,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ECL",
-            "price": 265.62,
             "beta": 1.056,
-            "volAvg": 1437839,
-            "mktCap": 75306723060,
             "lastDiv": 2.6,
             "range": "220.96-273.69",
-            "changes": 1.33,
             "companyName": "Ecolab Inc.",
             "currency": "USD",
             "cik": "0000031462",
@@ -28,8 +24,6 @@
             "city": "Saint Paul",
             "state": "MN",
             "zip": "55102-2233",
-            "dcfDiff": 130.49221,
-            "dcf": 135.1277939653224,
             "image": "https://images.financialmodelingprep.com/symbol/ECL.png",
             "ipoDate": "1957-01-01",
             "defaultImage": false,

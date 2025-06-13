@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HAL",
-            "price": 19.985,
             "beta": 1.195,
-            "volAvg": 14768342,
-            "mktCap": 17181404275,
             "lastDiv": 0.68,
             "range": "18.72-37.08",
-            "changes": -0.025,
             "companyName": "Halliburton Company",
             "currency": "USD",
             "cik": "0000045012",
@@ -28,8 +24,6 @@
             "city": "Houston",
             "state": "TX",
             "zip": "77032",
-            "dcfDiff": -40.23897,
-            "dcf": 60.363971734769784,
             "image": "https://images.financialmodelingprep.com/symbol/HAL.png",
             "ipoDate": "1972-06-01",
             "defaultImage": false,

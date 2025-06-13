@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BF-B",
-            "price": 33.34,
             "beta": 0.645,
-            "volAvg": 2950593,
-            "mktCap": 15738940992,
             "lastDiv": 0.8886,
             "range": "30.48-49.89",
-            "changes": -0.75,
             "companyName": "Brown-Forman Corporation",
             "currency": "USD",
             "cik": "0000014693",
@@ -28,8 +24,6 @@
             "city": "Louisville",
             "state": "KY",
             "zip": "40210",
-            "dcfDiff": -0.01562001,
-            "dcf": 33.35562000563131,
             "image": "https://images.financialmodelingprep.com/symbol/BF-B.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

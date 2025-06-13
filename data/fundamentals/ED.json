@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ED",
-            "price": 104.49,
             "beta": 0.276,
-            "volAvg": 3065431,
-            "mktCap": 37647329040,
             "lastDiv": 3.36,
             "range": "87.28-114.87",
-            "changes": 1.11,
             "companyName": "Consolidated Edison, Inc.",
             "currency": "USD",
             "cik": "0001047862",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10003",
-            "dcfDiff": 148.62484,
-            "dcf": -36.16484371707144,
             "image": "https://images.financialmodelingprep.com/symbol/ED.png",
             "ipoDate": "2001-02-15",
             "defaultImage": false,

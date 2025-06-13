@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BRO",
-            "price": 112.9,
             "beta": 0.873,
-            "volAvg": 1882334,
-            "mktCap": 32358043200,
             "lastDiv": 0.6,
             "range": "88.09-125.68",
-            "changes": 1.2,
             "companyName": "Brown & Brown, Inc.",
             "currency": "USD",
             "cik": "0000079282",
@@ -28,8 +24,6 @@
             "city": "Daytona Beach",
             "state": "FL",
             "zip": "32114",
-            "dcfDiff": -5.75806,
-            "dcf": 118.65806105587497,
             "image": "https://images.financialmodelingprep.com/symbol/BRO.png",
             "ipoDate": "1981-02-11",
             "defaultImage": false,

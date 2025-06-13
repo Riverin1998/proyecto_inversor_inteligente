@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DLTR",
-            "price": 90.26,
             "beta": 0.871,
-            "volAvg": 5224604,
-            "mktCap": 18967958480,
             "lastDiv": 0,
             "range": "60.49-121.92",
-            "changes": -0.32,
             "companyName": "Dollar Tree, Inc.",
             "currency": "USD",
             "cik": "0000935703",
@@ -28,8 +24,6 @@
             "city": "Chesapeake",
             "state": "VA",
             "zip": "23320",
-            "dcfDiff": 55.83595,
-            "dcf": 34.42404803462564,
             "image": "https://images.financialmodelingprep.com/symbol/DLTR.png",
             "ipoDate": "1995-03-07",
             "defaultImage": false,

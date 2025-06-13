@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FRT",
-            "price": 94.79,
             "beta": 1.12,
-            "volAvg": 849831,
-            "mktCap": 8176651753,
             "lastDiv": 4.39,
             "range": "80.65-118.34",
-            "changes": -0.65,
             "companyName": "Federal Realty Investment Trust",
             "currency": "USD",
             "cik": "0000034903",
@@ -28,8 +24,6 @@
             "city": "North Bethesda",
             "state": "MD",
             "zip": "20852",
-            "dcfDiff": 86.49372,
-            "dcf": 8.94627575519171,
             "image": "https://images.financialmodelingprep.com/symbol/FRT.png",
             "ipoDate": "1973-05-03",
             "defaultImage": false,

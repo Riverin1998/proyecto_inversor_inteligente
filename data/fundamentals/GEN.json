@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GEN",
-            "price": 28.29,
             "beta": 0.994,
-            "volAvg": 4741565,
-            "mktCap": 17546306700,
             "lastDiv": 0.5,
             "range": "22.74-31.72",
-            "changes": -0.07,
             "companyName": "Gen Digital Inc.",
             "currency": "USD",
             "cik": "0000849399",
@@ -28,8 +24,6 @@
             "city": "Tempe",
             "state": "AZ",
             "zip": "85281",
-            "dcfDiff": -40.43006,
-            "dcf": 68.79006396283904,
             "image": "https://images.financialmodelingprep.com/symbol/GEN.png",
             "ipoDate": "1989-06-23",
             "defaultImage": false,

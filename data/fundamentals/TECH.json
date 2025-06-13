@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "TECH",
-            "price": 49.85,
             "beta": 1.381,
-            "volAvg": 2362801,
-            "mktCap": 7814834950,
             "lastDiv": 0.32,
             "range": "46.01-83.62",
-            "changes": 1.07,
             "companyName": "Bio-Techne Corporation",
             "currency": "USD",
             "cik": "0000842023",
@@ -28,8 +24,6 @@
             "city": "Minneapolis",
             "state": "MN",
             "zip": "55413",
-            "dcfDiff": 10.86743,
-            "dcf": 38.982573214825635,
             "image": "https://images.financialmodelingprep.com/symbol/TECH.png",
             "ipoDate": "1989-02-09",
             "defaultImage": false,

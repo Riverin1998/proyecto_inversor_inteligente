@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GDDY",
-            "price": 178.875,
             "beta": 1.127,
-            "volAvg": 1566438,
-            "mktCap": 25487541000,
             "lastDiv": 0,
             "range": "135.725-216",
-            "changes": -3.195,
             "companyName": "GoDaddy Inc.",
             "currency": "USD",
             "cik": "0001609711",
@@ -28,8 +24,6 @@
             "city": "Tempe",
             "state": "AZ",
             "zip": "85284",
-            "dcfDiff": 16.0702,
-            "dcf": 165.99979771053174,
             "image": "https://images.financialmodelingprep.com/symbol/GDDY.png",
             "ipoDate": "2015-03-31",
             "defaultImage": false,

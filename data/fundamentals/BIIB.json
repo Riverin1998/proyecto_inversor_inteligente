@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BIIB",
-            "price": 131.86,
             "beta": 0.149,
-            "volAvg": 1766990,
-            "mktCap": 19321182080,
             "lastDiv": 0,
             "range": "110.04-238",
-            "changes": 0.02,
             "companyName": "Biogen Inc.",
             "currency": "USD",
             "cik": "0000875045",
@@ -28,8 +24,6 @@
             "city": "Cambridge",
             "state": "MA",
             "zip": "02142",
-            "dcfDiff": -193.81042,
-            "dcf": 325.94691522671985,
             "image": "https://images.financialmodelingprep.com/symbol/BIIB.png",
             "ipoDate": "1991-09-17",
             "defaultImage": false,

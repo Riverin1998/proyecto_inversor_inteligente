@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GL",
-            "price": 122.14,
             "beta": 0.557,
-            "volAvg": 698366,
-            "mktCap": 10081789806,
             "lastDiv": 0.99,
             "range": "76.55-133.76",
-            "changes": -0.1,
             "companyName": "Globe Life Inc.",
             "currency": "USD",
             "cik": "0000320335",
@@ -28,8 +24,6 @@
             "city": "McKinney",
             "state": "TX",
             "zip": "75070",
-            "dcfDiff": -208.26624,
-            "dcf": 337.04624422432914,
             "image": "https://images.financialmodelingprep.com/symbol/GL.png",
             "ipoDate": "1980-10-01",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CF",
-            "price": 90.71,
             "beta": 0.921,
-            "volAvg": 2701526,
-            "mktCap": 14695927100,
             "lastDiv": 2,
             "range": "67.34-98.25",
-            "changes": 0.6,
             "companyName": "CF Industries Holdings, Inc.",
             "currency": "USD",
             "cik": "0001324404",
@@ -28,8 +24,6 @@
             "city": "Northbrook",
             "state": "IL",
             "zip": "60015",
-            "dcfDiff": -186.26897,
-            "dcf": 281.5089656116122,
             "image": "https://images.financialmodelingprep.com/symbol/CF.png",
             "ipoDate": "2005-08-11",
             "defaultImage": false,

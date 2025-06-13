@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DOW",
-            "price": 27.74,
             "beta": 0.94,
-            "volAvg": 9274758,
-            "mktCap": 19608351880,
             "lastDiv": 3.5,
             "range": "25.06-57.59",
-            "changes": -1.05,
             "companyName": "Dow Inc.",
             "currency": "USD",
             "cik": "0001751788",
@@ -28,8 +24,6 @@
             "city": "Midland",
             "state": "MI",
             "zip": "48674",
-            "dcfDiff": -62.52307,
-            "dcf": 94.26307038958227,
             "image": "https://images.financialmodelingprep.com/symbol/DOW.png",
             "ipoDate": "2019-03-20",
             "defaultImage": false,

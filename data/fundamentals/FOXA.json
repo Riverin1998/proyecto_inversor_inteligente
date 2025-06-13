@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FOXA",
-            "price": 54.88,
             "beta": 0.522,
-            "volAvg": 4369011,
-            "mktCap": 23587037974,
             "lastDiv": 0.54,
             "range": "32.76-58.74",
-            "changes": -0.26,
             "companyName": "Fox Corporation",
             "currency": "USD",
             "cik": "0001754301",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10036",
-            "dcfDiff": -52.35793,
-            "dcf": 107.49792545810031,
             "image": "https://images.financialmodelingprep.com/symbol/FOXA.png",
             "ipoDate": "2019-03-12",
             "defaultImage": false,

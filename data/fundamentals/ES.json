@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ES",
-            "price": 64.81,
             "beta": 0.629,
-            "volAvg": 2791211,
-            "mktCap": 23810221850,
             "lastDiv": 2.935,
             "range": "52.28-69.01",
-            "changes": 0.72,
             "companyName": "Eversource Energy",
             "currency": "USD",
             "cik": "0000072741",
@@ -28,8 +24,6 @@
             "city": "Springfield",
             "state": "MA",
             "zip": "01104",
-            "dcfDiff": 58.35304,
-            "dcf": -0.1630422113245704,
             "image": "https://images.financialmodelingprep.com/symbol/ES.png",
             "ipoDate": "1973-02-21",
             "defaultImage": false,

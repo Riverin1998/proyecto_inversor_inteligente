@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FITB",
-            "price": 37.92,
             "beta": 0.914,
-            "volAvg": 5034888,
-            "mktCap": 25311296640,
             "lastDiv": 1.46,
             "range": "32.25-49.07",
-            "changes": -0.16,
             "companyName": "Fifth Third Bancorp",
             "currency": "USD",
             "cik": "0000035527",
@@ -28,8 +24,6 @@
             "city": "Cincinnati",
             "state": "OH",
             "zip": "45263",
-            "dcfDiff": -42.29932,
-            "dcf": 80.37932085323014,
             "image": "https://images.financialmodelingprep.com/symbol/FITB.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

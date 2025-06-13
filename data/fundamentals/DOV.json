@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DOV",
-            "price": 177.75,
             "beta": 1.275,
-            "volAvg": 1226841,
-            "mktCap": 24370236000,
             "lastDiv": 2.57,
             "range": "143.04-222.31",
-            "changes": -1.93,
             "companyName": "Dover Corporation",
             "currency": "USD",
             "cik": "0000029905",
@@ -28,8 +24,6 @@
             "city": "Downers Grove",
             "state": "IL",
             "zip": "60515",
-            "dcfDiff": 82.19926,
-            "dcf": 95.55074196489419,
             "image": "https://images.financialmodelingprep.com/symbol/DOV.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

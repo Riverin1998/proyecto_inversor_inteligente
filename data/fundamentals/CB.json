@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CB",
-            "price": 297.2,
             "beta": 0.582,
-            "volAvg": 1815942,
-            "mktCap": 119095767200,
             "lastDiv": 3.64,
             "range": "251.42-306.91",
-            "changes": 3.05,
             "companyName": "Chubb Limited",
             "currency": "USD",
             "cik": "0000896159",
@@ -28,8 +24,6 @@
             "city": "Zurich",
             "state": null,
             "zip": "8001",
-            "dcfDiff": -303.70587,
-            "dcf": 601.4258669763126,
             "image": "https://images.financialmodelingprep.com/symbol/CB.png",
             "ipoDate": "1993-03-25",
             "defaultImage": false,

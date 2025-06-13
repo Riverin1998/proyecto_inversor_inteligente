@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "STZ",
-            "price": 178.29,
             "beta": 0.737,
-            "volAvg": 2181003,
-            "mktCap": 31734371970,
             "lastDiv": 4.05,
             "range": "160.46-265.7",
-            "changes": -1.42,
             "companyName": "Constellation Brands, Inc.",
             "currency": "USD",
             "cik": "0000016918",
@@ -28,8 +24,6 @@
             "city": "Victor",
             "state": "NY",
             "zip": "14564",
-            "dcfDiff": -57.85027,
-            "dcf": 236.14026555941422,
             "image": "https://images.financialmodelingprep.com/symbol/STZ.png",
             "ipoDate": "1992-03-17",
             "defaultImage": false,

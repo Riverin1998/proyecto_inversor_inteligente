@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ADSK",
-            "price": 299.23,
             "beta": 1.473,
-            "volAvg": 1665281,
-            "mktCap": 64018762350,
             "lastDiv": 0,
             "range": "195.32-326.62",
-            "changes": -1.13,
             "companyName": "Autodesk, Inc.",
             "currency": "USD",
             "cik": "0000769397",
@@ -28,8 +24,6 @@
             "city": "San Rafael",
             "state": "CA",
             "zip": "94903",
-            "dcfDiff": 106.46661,
-            "dcf": 195.2133903074812,
             "image": "https://images.financialmodelingprep.com/symbol/ADSK.png",
             "ipoDate": "1985-06-28",
             "defaultImage": false,

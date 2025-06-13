@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CTVA",
-            "price": 70.8,
             "beta": 0.718,
-            "volAvg": 3609788,
-            "mktCap": 48297636000,
             "lastDiv": 0.67,
             "range": "50.01-71.01",
-            "changes": 1.09,
             "companyName": "Corteva, Inc.",
             "currency": "USD",
             "cik": "0001755672",
@@ -28,8 +24,6 @@
             "city": "Indianapolis",
             "state": "IN",
             "zip": "46268-0735",
-            "dcfDiff": 11.49759,
-            "dcf": 59.302413009101365,
             "image": "https://images.financialmodelingprep.com/symbol/CTVA.png",
             "ipoDate": "2019-05-24",
             "defaultImage": false,

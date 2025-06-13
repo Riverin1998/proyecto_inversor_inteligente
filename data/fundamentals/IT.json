@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "IT",
-            "price": 428.1,
             "beta": 1.239,
-            "volAvg": 708171,
-            "mktCap": 32949529890,
             "lastDiv": 0,
             "range": "366.05-584.01",
-            "changes": -1.76,
             "companyName": "Gartner, Inc.",
             "currency": "USD",
             "cik": "0000749251",
@@ -28,8 +24,6 @@
             "city": "Stamford",
             "state": "CT",
             "zip": "06902-7700",
-            "dcfDiff": 1.05916,
-            "dcf": 428.80084395974416,
             "image": "https://images.financialmodelingprep.com/symbol/IT.png",
             "ipoDate": "1993-10-05",
             "defaultImage": false,

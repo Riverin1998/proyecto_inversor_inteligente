@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BSX",
-            "price": 105.26,
             "beta": 0.688,
-            "volAvg": 8382250,
-            "mktCap": 155726907000,
             "lastDiv": 0,
             "range": "71.88-107.17",
-            "changes": 0.76,
             "companyName": "Boston Scientific Corporation",
             "currency": "USD",
             "cik": "0000885725",
@@ -28,8 +24,6 @@
             "city": "Marlborough",
             "state": "MA",
             "zip": "01752-1234",
-            "dcfDiff": 41.39505,
-            "dcf": 63.864945490216286,
             "image": "https://images.financialmodelingprep.com/symbol/BSX.png",
             "ipoDate": "1992-05-19",
             "defaultImage": false,

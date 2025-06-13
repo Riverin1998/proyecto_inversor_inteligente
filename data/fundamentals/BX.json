@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BX",
-            "price": 138.76,
             "beta": 1.662,
-            "volAvg": 5263238,
-            "mktCap": 163727845123,
             "lastDiv": 4.05,
             "range": "115.66-200.96",
-            "changes": -0.12,
             "companyName": "Blackstone Inc.",
             "currency": "USD",
             "cik": "0001393818",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10154",
-            "dcfDiff": -29.77548,
-            "dcf": 168.53548139849823,
             "image": "https://images.financialmodelingprep.com/symbol/BX.png",
             "ipoDate": "2007-06-22",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EFX",
-            "price": 264.19,
             "beta": 1.675,
-            "volAvg": 1095631,
-            "mktCap": 32812133810,
             "lastDiv": 1.67,
             "range": "199.98-309.63",
-            "changes": 1.14,
             "companyName": "Equifax Inc.",
             "currency": "USD",
             "cik": "0000033185",
@@ -28,8 +24,6 @@
             "city": "Atlanta",
             "state": "GA",
             "zip": "30309",
-            "dcfDiff": 206.59763,
-            "dcf": 57.592365148229895,
             "image": "https://images.financialmodelingprep.com/symbol/EFX.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

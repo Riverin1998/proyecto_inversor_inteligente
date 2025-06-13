@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GM",
-            "price": 47.845,
             "beta": 1.344,
-            "volAvg": 14429885,
-            "mktCap": 45999857575,
             "lastDiv": 0.48,
             "range": "38.96-61.24",
-            "changes": 0.155,
             "companyName": "General Motors Company",
             "currency": "USD",
             "cik": "0001467858",
@@ -28,8 +24,6 @@
             "city": "Detroit",
             "state": "MI",
             "zip": "48265-3000",
-            "dcfDiff": 95.35907,
-            "dcf": -45.45906621769181,
             "image": "https://images.financialmodelingprep.com/symbol/GM.png",
             "ipoDate": "2010-11-18",
             "defaultImage": false,

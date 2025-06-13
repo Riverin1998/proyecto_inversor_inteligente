@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FDX",
-            "price": 217.54,
             "beta": 1.362,
-            "volAvg": 2017907,
-            "mktCap": 52122366460,
             "lastDiv": 5.52,
             "range": "194.3-313.84",
-            "changes": -0.35,
             "companyName": "FedEx Corporation",
             "currency": "USD",
             "cik": "0001048911",
@@ -28,8 +24,6 @@
             "city": "Memphis",
             "state": "TN",
             "zip": "38120",
-            "dcfDiff": 82.84305,
-            "dcf": 135.04694955628722,
             "image": "https://images.financialmodelingprep.com/symbol/FDX.png",
             "ipoDate": "1978-04-12",
             "defaultImage": false,

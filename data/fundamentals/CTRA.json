@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CTRA",
-            "price": 24.31,
             "beta": 0.305,
-            "volAvg": 7671685,
-            "mktCap": 18554874910,
             "lastDiv": 0.86,
             "range": "22.3-29.95",
-            "changes": -0.42,
             "companyName": "Coterra Energy Inc.",
             "currency": "USD",
             "cik": "0000858470",
@@ -28,8 +24,6 @@
             "city": "Houston",
             "state": "TX",
             "zip": "77024",
-            "dcfDiff": -33.09502,
-            "dcf": 57.405019206626704,
             "image": "https://images.financialmodelingprep.com/symbol/CTRA.png",
             "ipoDate": "1990-02-08",
             "defaultImage": false,

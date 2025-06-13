@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HUBB",
-            "price": 383.215,
             "beta": 0.965,
-            "volAvg": 717124,
-            "mktCap": 20453180909,
             "lastDiv": 5.18,
             "range": "299.425-481.345",
-            "changes": 1.875,
             "companyName": "Hubbell Incorporated",
             "currency": "USD",
             "cik": "0000048898",
@@ -28,8 +24,6 @@
             "city": "Shelton",
             "state": "CT",
             "zip": "06484-1000",
-            "dcfDiff": 30.75639,
-            "dcf": 350.5836148736491,
             "image": "https://images.financialmodelingprep.com/symbol/HUBB.png",
             "ipoDate": "1972-06-05",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CINF",
-            "price": 150.82,
             "beta": 0.739,
-            "volAvg": 767168,
-            "mktCap": 23573769280,
             "lastDiv": 3.3,
             "range": "111.92-161.75",
-            "changes": 0.85,
             "companyName": "Cincinnati Financial Corporation",
             "currency": "USD",
             "cik": "0000020286",
@@ -28,8 +24,6 @@
             "city": "Fairfield",
             "state": "OH",
             "zip": "45014-5141",
-            "dcfDiff": -290.71852,
-            "dcf": 437.8085166842613,
             "image": "https://images.financialmodelingprep.com/symbol/CINF.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

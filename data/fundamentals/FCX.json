@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FCX",
-            "price": 40.02,
             "beta": 1.632,
-            "volAvg": 17434149,
-            "mktCap": 57476724000,
             "lastDiv": 0.45,
             "range": "27.66-52.61",
-            "changes": -0.13,
             "companyName": "Freeport-McMoRan Inc.",
             "currency": "USD",
             "cik": "0000831259",
@@ -28,8 +24,6 @@
             "city": "Phoenix",
             "state": "AZ",
             "zip": "85004-2189",
-            "dcfDiff": 2.32107,
-            "dcf": 37.82893097058995,
             "image": "https://images.financialmodelingprep.com/symbol/FCX.png",
             "ipoDate": "1995-07-10",
             "defaultImage": false,

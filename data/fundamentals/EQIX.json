@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EQIX",
-            "price": 888.82,
             "beta": 0.963,
-            "volAvg": 660404,
-            "mktCap": 86943483580,
             "lastDiv": 17.9,
             "range": "701.41-994.03",
-            "changes": 1.39,
             "companyName": "Equinix, Inc.",
             "currency": "USD",
             "cik": "0001101239",
@@ -28,8 +24,6 @@
             "city": "Redwood City",
             "state": "CA",
             "zip": "94065",
-            "dcfDiff": 955.75236,
-            "dcf": -66.93236217728028,
             "image": "https://images.financialmodelingprep.com/symbol/EQIX.png",
             "ipoDate": "2000-08-11",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CDNS",
-            "price": 287.07,
             "beta": 1.045,
-            "volAvg": 2337536,
-            "mktCap": 78382166940,
             "lastDiv": 0,
             "range": "221.56-328.99",
-            "changes": 2.57,
             "companyName": "Cadence Design Systems, Inc.",
             "currency": "USD",
             "cik": "0000813672",
@@ -28,8 +24,6 @@
             "city": "San Jose",
             "state": "CA",
             "zip": "95134",
-            "dcfDiff": 109.284,
-            "dcf": 177.785995248926,
             "image": "https://images.financialmodelingprep.com/symbol/CDNS.png",
             "ipoDate": "1987-06-10",
             "defaultImage": false,

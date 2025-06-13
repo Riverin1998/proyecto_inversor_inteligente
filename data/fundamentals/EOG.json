@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EOG",
-            "price": 108.57,
             "beta": 0.795,
-            "volAvg": 4179269,
-            "mktCap": 59256094590,
             "lastDiv": 3.77,
             "range": "102.52-138.18",
-            "changes": -1.31,
             "companyName": "EOG Resources, Inc.",
             "currency": "USD",
             "cik": "0000821189",
@@ -28,8 +24,6 @@
             "city": "Houston",
             "state": "TX",
             "zip": "77002",
-            "dcfDiff": -233.49549,
-            "dcf": 363.46548777424096,
             "image": "https://images.financialmodelingprep.com/symbol/EOG.png",
             "ipoDate": "1989-10-04",
             "defaultImage": false,

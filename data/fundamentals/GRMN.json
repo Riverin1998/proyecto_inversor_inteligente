@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GRMN",
-            "price": 202.53,
             "beta": 0.999,
-            "volAvg": 1063625,
-            "mktCap": 38995328730,
             "lastDiv": 3,
             "range": "158.38-246.5",
-            "changes": -0.42,
             "companyName": "Garmin Ltd.",
             "currency": "USD",
             "cik": "0001121788",
@@ -28,8 +24,6 @@
             "city": "Schaffhausen",
             "state": null,
             "zip": "8200",
-            "dcfDiff": 43.20045,
-            "dcf": 159.74955482831,
             "image": "https://images.financialmodelingprep.com/symbol/GRMN.png",
             "ipoDate": "2000-12-08",
             "defaultImage": false,

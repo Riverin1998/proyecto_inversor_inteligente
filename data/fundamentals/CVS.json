@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CVS",
-            "price": 64.04,
             "beta": 0.6,
-            "volAvg": 10326082,
-            "mktCap": 81011880800,
             "lastDiv": 2.66,
             "range": "43.56-72.51",
-            "changes": 1.26,
             "companyName": "CVS Health Corporation",
             "currency": "USD",
             "cik": "0000064803",
@@ -28,8 +24,6 @@
             "city": "Woonsocket",
             "state": "RI",
             "zip": "02895",
-            "dcfDiff": -614.08836,
-            "dcf": 691.4082592109049,
             "image": "https://images.financialmodelingprep.com/symbol/CVS.png",
             "ipoDate": "1996-11-20",
             "defaultImage": false,

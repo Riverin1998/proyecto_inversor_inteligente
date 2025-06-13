@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CFG",
-            "price": 40.35,
             "beta": 1.072,
-            "volAvg": 5244293,
-            "mktCap": 17497737150,
             "lastDiv": 1.68,
             "range": "32.6-49.25",
-            "changes": 0.09,
             "companyName": "Citizens Financial Group, Inc.",
             "currency": "USD",
             "cik": "0000759944",
@@ -28,8 +24,6 @@
             "city": "Providence",
             "state": "RI",
             "zip": "02903",
-            "dcfDiff": 8.53819,
-            "dcf": 31.811811967660752,
             "image": "https://images.financialmodelingprep.com/symbol/CFG.png",
             "ipoDate": "2014-09-24",
             "defaultImage": false,

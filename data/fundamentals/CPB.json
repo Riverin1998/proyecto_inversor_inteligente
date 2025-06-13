@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CPB",
-            "price": 34.04,
             "beta": 0.138,
-            "volAvg": 3560826,
-            "mktCap": 10150115825,
             "lastDiv": 1.52,
             "range": "32.95-52.81",
-            "changes": -0.13,
             "companyName": "Campbell Soup Company",
             "currency": "USD",
             "cik": "0000016732",
@@ -28,8 +24,6 @@
             "city": "Camden",
             "state": "NJ",
             "zip": "08103-1799",
-            "dcfDiff": -46.62739,
-            "dcf": 80.6673921638358,
             "image": "https://images.financialmodelingprep.com/symbol/CPB.png",
             "ipoDate": "1954-12-13",
             "defaultImage": false,

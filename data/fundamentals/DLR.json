@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DLR",
-            "price": 171.52,
             "beta": 0.949,
-            "volAvg": 2261471,
-            "mktCap": 57766392320,
             "lastDiv": 4.88,
             "range": "129.95-198",
-            "changes": -0.74,
             "companyName": "Digital Realty Trust, Inc.",
             "currency": "USD",
             "cik": "0001297996",
@@ -28,8 +24,6 @@
             "city": "Dallas",
             "state": "TX",
             "zip": "78735",
-            "dcfDiff": 197.24305,
-            "dcf": -25.72305359128074,
             "image": "https://images.financialmodelingprep.com/symbol/DLR.png",
             "ipoDate": "2004-10-29",
             "defaultImage": false,

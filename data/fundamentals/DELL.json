@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DELL",
-            "price": 111.27,
             "beta": 1.064,
-            "volAvg": 7830944,
-            "mktCap": 76050546989,
             "lastDiv": 1.86,
             "range": "66.25-161.52",
-            "changes": -2.36,
             "companyName": "Dell Technologies Inc.",
             "currency": "USD",
             "cik": "0001571996",
@@ -28,8 +24,6 @@
             "city": "Round Rock",
             "state": "TX",
             "zip": "78682",
-            "dcfDiff": 12.91822,
-            "dcf": 98.35178075935548,
             "image": "https://images.financialmodelingprep.com/symbol/DELL.png",
             "ipoDate": "2016-08-17",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CARR",
-            "price": 71.2,
             "beta": 1.332,
-            "volAvg": 5407715,
-            "mktCap": 61040472000,
             "lastDiv": 0.83,
             "range": "54.22-83.32",
-            "changes": -0.21,
             "companyName": "Carrier Global Corporation",
             "currency": "USD",
             "cik": "0001783180",
@@ -28,8 +24,6 @@
             "city": "Palm Beach Gardens",
             "state": "FL",
             "zip": "33418",
-            "dcfDiff": 45.61895,
-            "dcf": 25.581050189371233,
             "image": "https://images.financialmodelingprep.com/symbol/CARR.png",
             "ipoDate": "2020-03-19",
             "defaultImage": false,

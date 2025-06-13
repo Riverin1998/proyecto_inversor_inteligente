@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ENPH",
-            "price": 41.39,
             "beta": 1.801,
-            "volAvg": 5867126,
-            "mktCap": 5430657730,
             "lastDiv": 0,
             "range": "37.59-141.63",
-            "changes": 2.15,
             "companyName": "Enphase Energy, Inc.",
             "currency": "USD",
             "cik": "0001463101",
@@ -28,8 +24,6 @@
             "city": "Fremont",
             "state": "CA",
             "zip": "94538",
-            "dcfDiff": -47.20393,
-            "dcf": 88.59393195045966,
             "image": "https://images.financialmodelingprep.com/symbol/ENPH.png",
             "ipoDate": "2012-03-30",
             "defaultImage": false,

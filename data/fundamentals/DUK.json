@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DUK",
-            "price": 117.72,
             "beta": 0.376,
-            "volAvg": 4258846,
-            "mktCap": 91498694040,
             "lastDiv": 4.18,
             "range": "99.21-125.27",
-            "changes": 2.27,
             "companyName": "Duke Energy Corporation",
             "currency": "USD",
             "cik": "0001326160",
@@ -28,8 +24,6 @@
             "city": "Charlotte",
             "state": "NC",
             "zip": "28202-1803",
-            "dcfDiff": 212.46834,
-            "dcf": -90.44833644440547,
             "image": "https://images.financialmodelingprep.com/symbol/DUK.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

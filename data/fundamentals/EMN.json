@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EMN",
-            "price": 78.37,
             "beta": 1.304,
-            "volAvg": 1602449,
-            "mktCap": 9048600200,
             "lastDiv": 3.28,
             "range": "70.9-114.5",
-            "changes": -3.13,
             "companyName": "Eastman Chemical Company",
             "currency": "USD",
             "cik": "0000915389",
@@ -28,8 +24,6 @@
             "city": "Kingsport",
             "state": "TN",
             "zip": "37662",
-            "dcfDiff": -21.55601,
-            "dcf": 99.92601413127625,
             "image": "https://images.financialmodelingprep.com/symbol/EMN.png",
             "ipoDate": "1993-12-14",
             "defaultImage": false,

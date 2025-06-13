@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ITW",
-            "price": 243.04,
             "beta": 1.139,
-            "volAvg": 1275447,
-            "mktCap": 71210720000,
             "lastDiv": 5.9,
             "range": "214.66-279.13",
-            "changes": 0.39,
             "companyName": "Illinois Tool Works Inc.",
             "currency": "USD",
             "cik": "0000049826",
@@ -28,8 +24,6 @@
             "city": "Glenview",
             "state": "IL",
             "zip": "60025-4075",
-            "dcfDiff": 64.76416,
-            "dcf": 177.88583844036074,
             "image": "https://images.financialmodelingprep.com/symbol/ITW.png",
             "ipoDate": "1973-03-13",
             "defaultImage": false,

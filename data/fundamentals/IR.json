@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "IR",
-            "price": 81.47,
             "beta": 1.42,
-            "volAvg": 3375549,
-            "mktCap": 32870130610,
             "lastDiv": 0.08,
             "range": "65.61-106.03",
-            "changes": 0.41,
             "companyName": "Ingersoll Rand Inc.",
             "currency": "USD",
             "cik": "0001699150",
@@ -28,8 +24,6 @@
             "city": "Davidson",
             "state": "NC",
             "zip": "28036",
-            "dcfDiff": 33.11443,
-            "dcf": 47.94557198405546,
             "image": "https://images.financialmodelingprep.com/symbol/IR.png",
             "ipoDate": "2017-05-12",
             "defaultImage": false,

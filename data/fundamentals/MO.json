@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "MO",
-            "price": 59.31,
             "beta": 0.643,
-            "volAvg": 10111109,
-            "mktCap": 99904729500,
             "lastDiv": 4.04,
             "range": "43.83-61.26",
-            "changes": -1.06,
             "companyName": "Altria Group, Inc.",
             "currency": "USD",
             "cik": "0000764180",
@@ -28,8 +24,6 @@
             "city": "Richmond",
             "state": "VA",
             "zip": "23230",
-            "dcfDiff": -7.55661,
-            "dcf": 67.20161297423815,
             "image": "https://images.financialmodelingprep.com/symbol/MO.png",
             "ipoDate": "1985-07-01",
             "defaultImage": false,

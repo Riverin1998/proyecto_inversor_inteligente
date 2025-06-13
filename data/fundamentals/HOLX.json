@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HOLX",
-            "price": 63.7122,
             "beta": 0.546,
-            "volAvg": 3639766,
-            "mktCap": 14197945209,
             "lastDiv": 0,
             "range": "51.9-84.67",
-            "changes": 1.7022,
             "companyName": "Hologic, Inc.",
             "currency": "USD",
             "cik": "0000859737",
@@ -28,8 +24,6 @@
             "city": "Marlborough",
             "state": "MA",
             "zip": "01752",
-            "dcfDiff": -113.6083,
-            "dcf": 175.61829959474161,
             "image": "https://images.financialmodelingprep.com/symbol/HOLX.png",
             "ipoDate": "1990-03-01",
             "defaultImage": false,

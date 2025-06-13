@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BKNG",
-            "price": 5518.93,
             "beta": 1.425,
-            "volAvg": 274371,
-            "mktCap": 179587637879,
             "lastDiv": 35.85,
             "range": "3180-5532.5",
-            "changes": 16.93,
             "companyName": "Booking Holdings Inc.",
             "currency": "USD",
             "cik": "0001075531",
@@ -28,8 +24,6 @@
             "city": "Norwalk",
             "state": "CT",
             "zip": "06854",
-            "dcfDiff": -5116.11923,
-            "dcf": 10635.049232591728,
             "image": "https://images.financialmodelingprep.com/symbol/BKNG.png",
             "ipoDate": "1999-03-31",
             "defaultImage": false,

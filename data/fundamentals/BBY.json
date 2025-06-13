@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BBY",
-            "price": 71.52,
             "beta": 1.296,
-            "volAvg": 4322520,
-            "mktCap": 15139782720,
             "lastDiv": 3.77,
             "range": "54.99-103.71",
-            "changes": -0.7,
             "companyName": "Best Buy Co., Inc.",
             "currency": "USD",
             "cik": "0000764478",
@@ -28,8 +24,6 @@
             "city": "Richfield",
             "state": "MN",
             "zip": "55423",
-            "dcfDiff": -13.20636,
-            "dcf": 85.44135577868661,
             "image": "https://images.financialmodelingprep.com/symbol/BBY.png",
             "ipoDate": "1985-04-18",
             "defaultImage": false,

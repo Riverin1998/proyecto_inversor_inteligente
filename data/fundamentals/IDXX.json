@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "IDXX",
-            "price": 517.37,
             "beta": 1.525,
-            "volAvg": 845734,
-            "mktCap": 41607878403,
             "lastDiv": 0,
             "range": "356.14-530.6",
-            "changes": 2.57,
             "companyName": "IDEXX Laboratories, Inc.",
             "currency": "USD",
             "cik": "0000874716",
@@ -28,8 +24,6 @@
             "city": "Westbrook",
             "state": "ME",
             "zip": "04092",
-            "dcfDiff": 359.97701,
-            "dcf": 154.82298792462896,
             "image": "https://images.financialmodelingprep.com/symbol/IDXX.png",
             "ipoDate": "1991-06-21",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DPZ",
-            "price": 473.82,
             "beta": 1.161,
-            "volAvg": 653614,
-            "mktCap": 16224307530,
             "lastDiv": 6.27,
             "range": "396.06-538.44",
-            "changes": -0.7,
             "companyName": "Domino's Pizza, Inc.",
             "currency": "USD",
             "cik": "0001286681",
@@ -28,8 +24,6 @@
             "city": "Ann Arbor",
             "state": "MI",
             "zip": "48105",
-            "dcfDiff": 300.7749,
-            "dcf": 173.0450990139996,
             "image": "https://images.financialmodelingprep.com/symbol/DPZ.png",
             "ipoDate": "2004-07-13",
             "defaultImage": false,

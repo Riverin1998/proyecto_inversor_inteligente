@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DD",
-            "price": 66.8,
             "beta": 1.06,
-            "volAvg": 3330688,
-            "mktCap": 27955733200,
             "lastDiv": 1.55,
             "range": "53.77-90.06",
-            "changes": -2.18,
             "companyName": "DuPont de Nemours, Inc.",
             "currency": "USD",
             "cik": "0001666700",
@@ -28,8 +24,6 @@
             "city": "Wilmington",
             "state": "DE",
             "zip": "19805",
-            "dcfDiff": 37.4764,
-            "dcf": 29.323600784800497,
             "image": "https://images.financialmodelingprep.com/symbol/DD.png",
             "ipoDate": "1972-06-01",
             "defaultImage": false,

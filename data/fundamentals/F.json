@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "F",
-            "price": 9.96,
             "beta": 1.547,
-            "volAvg": 129324184,
-            "mktCap": 38900772000,
             "lastDiv": 0.75,
             "range": "8.44-14.85",
-            "changes": -0.02,
             "companyName": "Ford Motor Company",
             "currency": "USD",
             "cik": "0000037996",
@@ -28,8 +24,6 @@
             "city": "Dearborn",
             "state": "MI",
             "zip": "48126-1899",
-            "dcfDiff": -20.38714,
-            "dcf": 30.697144562534948,
             "image": "https://images.financialmodelingprep.com/symbol/F.png",
             "ipoDate": "1972-06-01",
             "defaultImage": false,

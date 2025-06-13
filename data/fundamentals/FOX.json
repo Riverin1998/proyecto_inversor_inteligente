@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FOX",
-            "price": 50.345,
             "beta": 0.527,
-            "volAvg": 1373723,
-            "mktCap": 23634729193,
             "lastDiv": 0.54,
             "range": "30.51-55",
-            "changes": -0.235,
             "companyName": "Fox Corporation",
             "currency": "USD",
             "cik": "0001754301",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10036",
-            "dcfDiff": -52.35793,
-            "dcf": 107.49792545810031,
             "image": "https://images.financialmodelingprep.com/symbol/FOX.png",
             "ipoDate": "2019-03-13",
             "defaultImage": false,

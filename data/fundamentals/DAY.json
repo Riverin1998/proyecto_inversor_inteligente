@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DAY",
-            "price": 59.08,
             "beta": 1.172,
-            "volAvg": 2177976,
-            "mktCap": 9445769480,
             "lastDiv": 0,
             "range": "47.08-82.69",
-            "changes": 1.38,
             "companyName": "Dayforce Inc",
             "currency": "USD",
             "cik": "0001725057",
@@ -28,8 +24,6 @@
             "city": "Minneapolis",
             "state": "MN",
             "zip": "55425-1640",
-            "dcfDiff": 57.78405,
-            "dcf": 1.2959462406178202,
             "image": "https://images.financialmodelingprep.com/symbol/DAY.png",
             "ipoDate": "2018-04-26",
             "defaultImage": false,

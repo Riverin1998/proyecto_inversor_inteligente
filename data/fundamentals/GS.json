@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GS",
-            "price": 595.38,
             "beta": 1.311,
-            "volAvg": 2927334,
-            "mktCap": 182686994580,
             "lastDiv": 12,
             "range": "437.37-672.19",
-            "changes": -3.34,
             "companyName": "The Goldman Sachs Group, Inc.",
             "currency": "USD",
             "cik": "0000886982",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10282",
-            "dcfDiff": 489.19965,
-            "dcf": 62.05034732402042,
             "image": "https://images.financialmodelingprep.com/symbol/GS.png",
             "ipoDate": "1999-05-04",
             "defaultImage": false,

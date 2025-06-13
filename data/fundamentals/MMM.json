@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "MMM",
-            "price": 146.81,
             "beta": 1.083,
-            "volAvg": 3912242,
-            "mktCap": 79010352610,
             "lastDiv": 2.86,
             "range": "97.87-156.35",
-            "changes": -1.32,
             "companyName": "3M Company",
             "currency": "USD",
             "cik": "0000066740",
@@ -28,8 +24,6 @@
             "city": "Saint Paul",
             "state": "MN",
             "zip": "55144-1000",
-            "dcfDiff": 94.23575,
-            "dcf": 53.124253923887935,
             "image": "https://images.financialmodelingprep.com/symbol/MMM.png",
             "ipoDate": "1946-01-14",
             "defaultImage": false,

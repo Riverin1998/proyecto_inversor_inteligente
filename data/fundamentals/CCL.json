@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CCL",
-            "price": 23.22,
             "beta": 2.508,
-            "volAvg": 26678817,
-            "mktCap": 30137953315,
             "lastDiv": 0,
             "range": "13.78-28.72",
-            "changes": 0.06,
             "companyName": "Carnival Corporation & plc",
             "currency": "USD",
             "cik": "0000815097",
@@ -28,8 +24,6 @@
             "city": "Miami",
             "state": "FL",
             "zip": "33178-2428",
-            "dcfDiff": 6.25993,
-            "dcf": 17.2799,
             "image": "https://images.financialmodelingprep.com/symbol/CCL.png",
             "ipoDate": "1987-07-24",
             "defaultImage": false,

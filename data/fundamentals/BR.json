@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BR",
-            "price": 242.83,
             "beta": 0.992,
-            "volAvg": 600273,
-            "mktCap": 28523540290,
             "lastDiv": 3.44,
             "range": "192.68-247.01",
-            "changes": 3.11,
             "companyName": "Broadridge Financial Solutions, Inc.",
             "currency": "USD",
             "cik": "0001383312",
@@ -28,8 +24,6 @@
             "city": "Lake Success",
             "state": "NY",
             "zip": "11042",
-            "dcfDiff": 130.37452,
-            "dcf": 112.45547524268342,
             "image": "https://images.financialmodelingprep.com/symbol/BR.png",
             "ipoDate": "2007-03-22",
             "defaultImage": false,

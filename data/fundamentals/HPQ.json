@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HPQ",
-            "price": 24.845,
             "beta": 1.313,
-            "volAvg": 9366531,
-            "mktCap": 23336237685,
             "lastDiv": 1.13,
             "range": "21.21-39.8",
-            "changes": -0.065,
             "companyName": "HP Inc.",
             "currency": "USD",
             "cik": "0000047217",
@@ -28,8 +24,6 @@
             "city": "Palo Alto",
             "state": "CA",
             "zip": "94304",
-            "dcfDiff": -10.76089,
-            "dcf": 35.670893915418176,
             "image": "https://images.financialmodelingprep.com/symbol/HPQ.png",
             "ipoDate": "1957-11-06",
             "defaultImage": false,

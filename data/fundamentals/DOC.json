@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DOC",
-            "price": 17.05,
             "beta": 1.024,
-            "volAvg": 6089741,
-            "mktCap": 11845180600,
             "lastDiv": 1.10834,
             "range": "16.64-23.26",
-            "changes": -0.36,
             "companyName": "Healthpeak Properties, Inc.",
             "currency": "USD",
             "cik": "0001574540",
@@ -28,8 +24,6 @@
             "city": "Denver",
             "state": "CO",
             "zip": "80237",
-            "dcfDiff": -27.88391,
-            "dcf": 45.29391303790769,
             "image": "https://images.financialmodelingprep.com/symbol/DOC.png",
             "ipoDate": "1985-05-23",
             "defaultImage": false,

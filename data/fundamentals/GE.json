@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GE",
-            "price": 250.14,
             "beta": 1.313,
-            "volAvg": 6198107,
-            "mktCap": 266746794600,
             "lastDiv": 1.44,
             "range": "150.2-250.345",
-            "changes": 2.66,
             "companyName": "General Electric Company",
             "currency": "USD",
             "cik": "0000040545",
@@ -28,8 +24,6 @@
             "city": "Evendale",
             "state": "OH",
             "zip": "45215",
-            "dcfDiff": 237.38767,
-            "dcf": 10.092325719390308,
             "image": "https://images.financialmodelingprep.com/symbol/GE.png",
             "ipoDate": "1962-01-02",
             "defaultImage": false,

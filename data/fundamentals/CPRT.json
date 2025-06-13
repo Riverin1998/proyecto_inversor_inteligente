@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CPRT",
-            "price": 51.48,
             "beta": 1.202,
-            "volAvg": 5780490,
-            "mktCap": 49734467640,
             "lastDiv": 0,
             "range": "48.05-64.38",
-            "changes": 0.06,
             "companyName": "Copart, Inc.",
             "currency": "USD",
             "cik": "0000900075",
@@ -28,8 +24,6 @@
             "city": "Dallas",
             "state": "TX",
             "zip": "75254",
-            "dcfDiff": 20.60846,
-            "dcf": 30.871538616623784,
             "image": "https://images.financialmodelingprep.com/symbol/CPRT.png",
             "ipoDate": "1994-03-17",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DAL",
-            "price": 48.39,
             "beta": 1.46,
-            "volAvg": 13139768,
-            "mktCap": 31596395670,
             "lastDiv": 0.6,
             "range": "34.74-69.98",
-            "changes": -0.11,
             "companyName": "Delta Air Lines, Inc.",
             "currency": "USD",
             "cik": "0000027904",
@@ -28,8 +24,6 @@
             "city": "Atlanta",
             "state": "GA",
             "zip": "30320-6001",
-            "dcfDiff": 7.87598,
-            "dcf": 46.606,
             "image": "https://images.financialmodelingprep.com/symbol/DAL.png",
             "ipoDate": "2007-05-03",
             "defaultImage": false,

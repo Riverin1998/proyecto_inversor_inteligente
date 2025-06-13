@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CSGP",
-            "price": 73.56,
             "beta": 0.893,
-            "volAvg": 3536288,
-            "mktCap": 31034007720,
             "lastDiv": 0,
             "range": "68.26-83.68",
-            "changes": -0.51,
             "companyName": "CoStar Group, Inc.",
             "currency": "USD",
             "cik": "0001057352",
@@ -28,8 +24,6 @@
             "city": "Washington",
             "state": "DC",
             "zip": "20005",
-            "dcfDiff": 24.84692,
-            "dcf": 48.71308423009086,
             "image": "https://images.financialmodelingprep.com/symbol/CSGP.png",
             "ipoDate": "1998-07-01",
             "defaultImage": false,

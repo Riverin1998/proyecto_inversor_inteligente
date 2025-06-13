@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EQT",
-            "price": 55.13,
             "beta": 0.591,
-            "volAvg": 8289520,
-            "mktCap": 33002251380,
             "lastDiv": 0.63,
             "range": "30.02-57.37",
-            "changes": -0.24,
             "companyName": "EQT Corporation",
             "currency": "USD",
             "cik": "0000033213",
@@ -28,8 +24,6 @@
             "city": "Pittsburgh",
             "state": "PA",
             "zip": "15222-3111",
-            "dcfDiff": -22.5288,
-            "dcf": 75.89879511326052,
             "image": "https://images.financialmodelingprep.com/symbol/EQT.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GPN",
-            "price": 73.94,
             "beta": 0.967,
-            "volAvg": 3600522,
-            "mktCap": 18032487200,
             "lastDiv": 1,
             "range": "65.93-120",
-            "changes": -0.975,
             "companyName": "Global Payments Inc.",
             "currency": "USD",
             "cik": "0001123360",
@@ -28,8 +24,6 @@
             "city": "Atlanta",
             "state": "GA",
             "zip": "30326",
-            "dcfDiff": -152.14807,
-            "dcf": 231.87806879780067,
             "image": "https://images.financialmodelingprep.com/symbol/GPN.png",
             "ipoDate": "2001-01-16",
             "defaultImage": false,

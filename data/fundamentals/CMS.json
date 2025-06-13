@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CMS",
-            "price": 70.23,
             "beta": 0.408,
-            "volAvg": 2725546,
-            "mktCap": 21007478520,
             "lastDiv": 2.115,
             "range": "58.5-76.45",
-            "changes": 0.68,
             "companyName": "CMS Energy Corporation",
             "currency": "USD",
             "cik": "0000811156",
@@ -28,8 +24,6 @@
             "city": "Jackson",
             "state": "MI",
             "zip": "49201",
-            "dcfDiff": 142.08115,
-            "dcf": -68.43115272263724,
             "image": "https://images.financialmodelingprep.com/symbol/CMS.png",
             "ipoDate": "1987-05-01",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CTAS",
-            "price": 226.5,
             "beta": 1.085,
-            "volAvg": 1875731,
-            "mktCap": 91457755500,
             "lastDiv": 2.145,
             "range": "167.7075-228.12",
-            "changes": 1.75,
             "companyName": "Cintas Corporation",
             "currency": "USD",
             "cik": "0000723254",
@@ -28,8 +24,6 @@
             "city": "Cincinnati",
             "state": "OH",
             "zip": "45262-5737",
-            "dcfDiff": 138.43891,
-            "dcf": 88.0610930211353,
             "image": "https://images.financialmodelingprep.com/symbol/CTAS.png",
             "ipoDate": "1983-08-19",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "KMX",
-            "price": 64.46,
             "beta": 1.449,
-            "volAvg": 3493519,
-            "mktCap": 9819514100,
             "lastDiv": 0,
             "range": "61.34-91.25",
-            "changes": 1.46,
             "companyName": "CarMax, Inc.",
             "currency": "USD",
             "cik": "0001170010",
@@ -28,8 +24,6 @@
             "city": "Richmond",
             "state": "VA",
             "zip": "23238",
-            "dcfDiff": 82.87587,
-            "dcf": -15.675872528886387,
             "image": "https://images.financialmodelingprep.com/symbol/KMX.png",
             "ipoDate": "1997-02-04",
             "defaultImage": false,

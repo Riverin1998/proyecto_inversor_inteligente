@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "T",
-            "price": 27.36,
             "beta": 0.604,
-            "volAvg": 39670674,
-            "mktCap": 196871616000,
             "lastDiv": 1.11,
             "range": "17.42-29.03",
-            "changes": -0.6,
             "companyName": "AT&T Inc.",
             "currency": "USD",
             "cik": "0000732717",
@@ -28,8 +24,6 @@
             "city": "Dallas",
             "state": "TX",
             "zip": "75202",
-            "dcfDiff": -13.98193,
-            "dcf": 41.656925781103055,
             "image": "https://images.financialmodelingprep.com/symbol/T.png",
             "ipoDate": "1983-11-21",
             "defaultImage": false,

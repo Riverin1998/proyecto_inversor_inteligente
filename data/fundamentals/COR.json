@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "COR",
-            "price": 291.24,
             "beta": 0.6,
-            "volAvg": 1876323,
-            "mktCap": 56449010520,
             "lastDiv": 2.16,
             "range": "218.65-309.35",
-            "changes": 0.55,
             "companyName": "Cencora, Inc.",
             "currency": "USD",
             "cik": "0001140859",
@@ -28,8 +24,6 @@
             "city": "Conshohocken",
             "state": "PA",
             "zip": "19428",
-            "dcfDiff": -300.50851,
-            "dcf": 591.7485063136679,
             "image": "https://images.financialmodelingprep.com/symbol/COR.png",
             "ipoDate": "1995-04-04",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DVA",
-            "price": 136.26,
             "beta": 1.141,
-            "volAvg": 879301,
-            "mktCap": 10287630000,
             "lastDiv": 0,
             "range": "131.76-179.6",
-            "changes": -0.07,
             "companyName": "DaVita Inc.",
             "currency": "USD",
             "cik": "0000927066",
@@ -28,8 +24,6 @@
             "city": "Denver",
             "state": "CO",
             "zip": "80202",
-            "dcfDiff": -162.35529,
-            "dcf": 298.6152850059906,
             "image": "https://images.financialmodelingprep.com/symbol/DVA.png",
             "ipoDate": "1995-10-31",
             "defaultImage": false,

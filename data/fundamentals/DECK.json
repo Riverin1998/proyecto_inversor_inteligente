@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DECK",
-            "price": 105.52,
             "beta": 1.11,
-            "volAvg": 3586058,
-            "mktCap": 15768486720,
             "lastDiv": 0,
             "range": "93.72-223.98",
-            "changes": -1.75,
             "companyName": "Deckers Outdoor Corporation",
             "currency": "USD",
             "cik": "0000910521",
@@ -28,8 +24,6 @@
             "city": "Goleta",
             "state": "CA",
             "zip": "93117",
-            "dcfDiff": -70.85714,
-            "dcf": 176.37713741934283,
             "image": "https://images.financialmodelingprep.com/symbol/DECK.png",
             "ipoDate": "1993-10-15",
             "defaultImage": false,

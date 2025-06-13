@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ETN",
-            "price": 320.2,
             "beta": 1.129,
-            "volAvg": 3322590,
-            "mktCap": 125294260000,
             "lastDiv": 3.96,
             "range": "231.85-379.99",
-            "changes": -4.61,
             "companyName": "Eaton Corporation plc",
             "currency": "USD",
             "cik": "0001551182",
@@ -28,8 +24,6 @@
             "city": "Dublin",
             "state": null,
             "zip": "D04 Y0C2",
-            "dcfDiff": 153.31651,
-            "dcf": 166.88348963555214,
             "image": "https://images.financialmodelingprep.com/symbol/ETN.png",
             "ipoDate": "1972-06-01",
             "defaultImage": false,

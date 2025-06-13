@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "C",
-            "price": 75.32,
             "beta": 1.285,
-            "volAvg": 17099273,
-            "mktCap": 140677423600,
             "lastDiv": 2.24,
             "range": "53.51-84.74",
-            "changes": -0.21,
             "companyName": "Citigroup Inc.",
             "currency": "USD",
             "cik": "0000831001",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10013",
-            "dcfDiff": 51.94879,
-            "dcf": 17.836212673116858,
             "image": "https://images.financialmodelingprep.com/symbol/C.png",
             "ipoDate": "1977-01-03",
             "defaultImage": false,

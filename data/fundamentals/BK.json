@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BK",
-            "price": 88.61,
             "beta": 1.047,
-            "volAvg": 4376758,
-            "mktCap": 63394606740,
             "lastDiv": 1.88,
             "range": "57.18-90.63",
-            "changes": -0.46,
             "companyName": "The Bank of New York Mellon Corporation",
             "currency": "USD",
             "cik": "0001390777",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10286",
-            "dcfDiff": -28.98806,
-            "dcf": 117.59805993923045,
             "image": "https://images.financialmodelingprep.com/symbol/BK.png",
             "ipoDate": "1973-05-03",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EXE",
-            "price": 116.13,
             "beta": 0.44,
-            "volAvg": 4613249,
-            "mktCap": 27636501270,
             "lastDiv": 2.3,
             "range": "69.12-117.66",
-            "changes": 0.45,
             "companyName": "Expand Energy Corporation",
             "currency": "USD",
             "cik": "0000895126",
@@ -28,8 +24,6 @@
             "city": "Oklahoma City",
             "state": "OK",
             "zip": "73118",
-            "dcfDiff": 74.94528,
-            "dcf": 41.18471622147979,
             "image": "https://images.financialmodelingprep.com/symbol/EXE.png",
             "ipoDate": "2021-02-10",
             "defaultImage": true,

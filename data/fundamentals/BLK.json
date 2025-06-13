@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BLK",
-            "price": 979.89,
             "beta": 1.426,
-            "volAvg": 858922,
-            "mktCap": 151810438140,
             "lastDiv": 20.51,
             "range": "752.3-1084.22",
-            "changes": 3.57,
             "companyName": "BlackRock, Inc.",
             "currency": "USD",
             "cik": "0002012383",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10001",
-            "dcfDiff": 515.7033,
-            "dcf": 464.1867035343154,
             "image": "https://images.financialmodelingprep.com/symbol/BLK.png",
             "ipoDate": "1999-10-01",
             "defaultImage": false,

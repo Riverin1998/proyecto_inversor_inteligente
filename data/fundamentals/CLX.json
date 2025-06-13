@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CLX",
-            "price": 131.88,
             "beta": 0.598,
-            "volAvg": 1635676,
-            "mktCap": 16254605640,
             "lastDiv": 4.88,
             "range": "129.19-171.37",
-            "changes": 0.89,
             "companyName": "The Clorox Company",
             "currency": "USD",
             "cik": "0000021076",
@@ -28,8 +24,6 @@
             "city": "Oakland",
             "state": "CA",
             "zip": "94612-1888",
-            "dcfDiff": -147.09347,
-            "dcf": 278.9734746343766,
             "image": "https://images.financialmodelingprep.com/symbol/CLX.png",
             "ipoDate": "1983-03-21",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CVX",
-            "price": 136.7,
             "beta": 0.806,
-            "volAvg": 9827906,
-            "mktCap": 238731513000,
             "lastDiv": 6.68,
             "range": "132.04-168.96",
-            "changes": -1.21,
             "companyName": "Chevron Corporation",
             "currency": "USD",
             "cik": "0000093410",
@@ -28,8 +24,6 @@
             "city": "San Ramon",
             "state": "CA",
             "zip": "94583-2324",
-            "dcfDiff": -266.62505,
-            "dcf": 433.09505301482795,
             "image": "https://images.financialmodelingprep.com/symbol/CVX.png",
             "ipoDate": "1921-06-24",
             "defaultImage": false,

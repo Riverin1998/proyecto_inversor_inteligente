@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DXCM",
-            "price": 85.8,
             "beta": 1.435,
-            "volAvg": 4390374,
-            "mktCap": 33642780600,
             "lastDiv": 0,
             "range": "57.52-120.48",
-            "changes": 0.94,
             "companyName": "DexCom, Inc.",
             "currency": "USD",
             "cik": "0001093557",
@@ -28,8 +24,6 @@
             "city": "San Diego",
             "state": "CA",
             "zip": "92121",
-            "dcfDiff": 54.50415,
-            "dcf": 31.295847766573235,
             "image": "https://images.financialmodelingprep.com/symbol/DXCM.png",
             "ipoDate": "2005-04-14",
             "defaultImage": false,

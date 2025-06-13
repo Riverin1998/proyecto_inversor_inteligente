@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FIS",
-            "price": 78.43,
             "beta": 1.096,
-            "volAvg": 4157079,
-            "mktCap": 41206729850,
             "lastDiv": 1.48,
             "range": "66.51-91.98",
-            "changes": -0.66,
             "companyName": "Fidelity National Information Services, Inc.",
             "currency": "USD",
             "cik": "0001136893",
@@ -28,8 +24,6 @@
             "city": "Jacksonville",
             "state": "FL",
             "zip": "32204",
-            "dcfDiff": 30.47461,
-            "dcf": 48.615390298442655,
             "image": "https://images.financialmodelingprep.com/symbol/FIS.png",
             "ipoDate": "2001-06-20",
             "defaultImage": false,

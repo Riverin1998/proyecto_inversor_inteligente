@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FAST",
-            "price": 40.7902,
             "beta": 1.009,
-            "volAvg": 7284449,
-            "mktCap": 46796149048,
             "lastDiv": 1.02,
             "range": "30.68-42.44",
-            "changes": -0.1198,
             "companyName": "Fastenal Company",
             "currency": "USD",
             "cik": "0000815556",
@@ -28,8 +24,6 @@
             "city": "Winona",
             "state": "MN",
             "zip": "55987-1500",
-            "dcfDiff": -5.04616,
-            "dcf": 45.956157265892195,
             "image": "https://images.financialmodelingprep.com/symbol/FAST.png",
             "ipoDate": "1987-08-20",
             "defaultImage": false,

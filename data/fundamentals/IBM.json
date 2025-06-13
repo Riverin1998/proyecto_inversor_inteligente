@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "IBM",
-            "price": 263.6,
             "beta": 0.629,
-            "volAvg": 4756060,
-            "mktCap": 244989049200,
             "lastDiv": 6.69,
             "range": "163.88-269.28",
-            "changes": -0.3,
             "companyName": "International Business Machines Corporation",
             "currency": "USD",
             "cik": "0000051143",
@@ -28,8 +24,6 @@
             "city": "Armonk",
             "state": "NY",
             "zip": "10504",
-            "dcfDiff": -234.8529,
-            "dcf": 498.75290361366234,
             "image": "https://images.financialmodelingprep.com/symbol/IBM.png",
             "ipoDate": "1915-09-24",
             "defaultImage": false,

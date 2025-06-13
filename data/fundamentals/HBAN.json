@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HBAN",
-            "price": 15.545,
             "beta": 0.917,
-            "volAvg": 23222220,
-            "mktCap": 22646111450,
             "lastDiv": 0.62,
             "range": "11.92-18.45",
-            "changes": -0.035,
             "companyName": "Huntington Bancshares Incorporated",
             "currency": "USD",
             "cik": "0000049196",
@@ -28,8 +24,6 @@
             "city": "Columbus",
             "state": "OH",
             "zip": "43287",
-            "dcfDiff": -11.28917,
-            "dcf": 26.86916880003181,
             "image": "https://images.financialmodelingprep.com/symbol/HBAN.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

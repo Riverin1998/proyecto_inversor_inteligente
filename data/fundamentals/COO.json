@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "COO",
-            "price": 68.28,
             "beta": 1.0822684,
-            "volAvg": 2266096,
-            "mktCap": 13654702680,
             "lastDiv": 0,
             "range": "65.95-112.38",
-            "changes": -11.68,
             "companyName": "The Cooper Companies, Inc.",
             "currency": "USD",
             "cik": "0000711404",
@@ -28,8 +24,6 @@
             "city": "San Ramon",
             "state": "CA",
             "zip": "94583",
-            "dcfDiff": 30.241,
-            "dcf": 38.038999197128284,
             "image": "https://images.financialmodelingprep.com/symbol/COO.png",
             "ipoDate": "1983-01-21",
             "defaultImage": false,

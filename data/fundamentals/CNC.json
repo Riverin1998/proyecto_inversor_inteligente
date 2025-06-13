@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CNC",
-            "price": 56.44,
             "beta": 0.481,
-            "volAvg": 4893006,
-            "mktCap": 28084713320,
             "lastDiv": 0,
             "range": "55.03-80.59",
-            "changes": -0.08,
             "companyName": "Centene Corporation",
             "currency": "USD",
             "cik": "0001071739",
@@ -28,8 +24,6 @@
             "city": "Saint Louis",
             "state": "MO",
             "zip": "63105",
-            "dcfDiff": -496.50867,
-            "dcf": 575.088669150469,
             "image": "https://images.financialmodelingprep.com/symbol/CNC.png",
             "ipoDate": "2001-12-13",
             "defaultImage": false,

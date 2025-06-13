@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FTV",
-            "price": 73.17,
             "beta": 1.158,
-            "volAvg": 3749835.1,
-            "mktCap": 24869165940,
             "lastDiv": 0.32,
             "range": "60.385-83.32",
-            "changes": 2.91,
             "companyName": "Fortive Corporation",
             "currency": "USD",
             "cik": "0001659166",
@@ -28,8 +24,6 @@
             "city": "Everett",
             "state": "WA",
             "zip": "98203",
-            "dcfDiff": -23.29643,
-            "dcf": 93.55643424735256,
             "image": "https://images.financialmodelingprep.com/symbol/FTV.png",
             "ipoDate": "2016-07-05",
             "defaultImage": false,

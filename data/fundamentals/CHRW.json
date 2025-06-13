@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CHRW",
-            "price": 95.97,
             "beta": 0.925,
-            "volAvg": 1508485,
-            "mktCap": 11394614070,
             "lastDiv": 2.47,
             "range": "82.16-114.82",
-            "changes": -0.13,
             "companyName": "C.H. Robinson Worldwide, Inc.",
             "currency": "USD",
             "cik": "0001043277",
@@ -28,8 +24,6 @@
             "city": "Eden Prairie",
             "state": "MN",
             "zip": "55347-5076",
-            "dcfDiff": 0.84649,
-            "dcf": 95.1235085696084,
             "image": "https://images.financialmodelingprep.com/symbol/CHRW.png",
             "ipoDate": "1997-10-16",
             "defaultImage": false,

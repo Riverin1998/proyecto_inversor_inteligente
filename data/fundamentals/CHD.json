@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CHD",
-            "price": 98.31,
             "beta": 0.545,
-            "volAvg": 2184885,
-            "mktCap": 24211491870,
             "lastDiv": 1.1575,
             "range": "90.99-116.46",
-            "changes": 0.17,
             "companyName": "Church & Dwight Co., Inc.",
             "currency": "USD",
             "cik": "0000313927",
@@ -28,8 +24,6 @@
             "city": "Ewing",
             "state": "NJ",
             "zip": "08628",
-            "dcfDiff": -87.4717,
-            "dcf": 185.7816999494287,
             "image": "https://images.financialmodelingprep.com/symbol/CHD.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DHI",
-            "price": 118.06,
             "beta": 1.456,
-            "volAvg": 3630720,
-            "mktCap": 36265788860,
             "lastDiv": 1.6,
             "range": "110.44-199.85",
-            "changes": -0.21,
             "companyName": "D.R. Horton, Inc.",
             "currency": "USD",
             "cik": "0000882184",
@@ -28,8 +24,6 @@
             "city": "Arlington",
             "state": "TX",
             "zip": "76011",
-            "dcfDiff": 7.49671,
-            "dcf": 110.5632925432863,
             "image": "https://images.financialmodelingprep.com/symbol/DHI.png",
             "ipoDate": "1992-06-05",
             "defaultImage": false,

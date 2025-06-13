@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CCI",
-            "price": 100.35,
             "beta": 0.948,
-            "volAvg": 3539449,
-            "mktCap": 43698310650,
             "lastDiv": 6.26,
             "range": "84.2-120.92",
-            "changes": 0,
             "companyName": "Crown Castle Inc.",
             "currency": "USD",
             "cik": "0001051470",
@@ -28,8 +24,6 @@
             "city": "Houston",
             "state": "TX",
             "zip": "77057-2261",
-            "dcfDiff": 26.23859,
-            "dcf": 74.11141368958455,
             "image": "https://images.financialmodelingprep.com/symbol/CCI.png",
             "ipoDate": "1998-08-18",
             "defaultImage": false,

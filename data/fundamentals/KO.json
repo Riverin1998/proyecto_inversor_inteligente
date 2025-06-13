@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "KO",
-            "price": 72.1,
             "beta": 0.474,
-            "volAvg": 18041423,
-            "mktCap": 310337867000,
             "lastDiv": 1.965,
             "range": "60.62-74.38",
-            "changes": 0.61,
             "companyName": "The Coca-Cola Company",
             "currency": "USD",
             "cik": "0000021344",
@@ -28,8 +24,6 @@
             "city": "Atlanta",
             "state": "GA",
             "zip": "30313",
-            "dcfDiff": -93.15802,
-            "dcf": 165.25801670791535,
             "image": "https://images.financialmodelingprep.com/symbol/KO.png",
             "ipoDate": "1919-09-05",
             "defaultImage": false,

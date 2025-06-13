@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HSIC",
-            "price": 69.91,
             "beta": 0.874,
-            "volAvg": 1605830,
-            "mktCap": 8509445200,
             "lastDiv": 0,
             "range": "60.56-82.49",
-            "changes": 0.35,
             "companyName": "Henry Schein, Inc.",
             "currency": "USD",
             "cik": "0001000228",
@@ -28,8 +24,6 @@
             "city": "Melville",
             "state": "NY",
             "zip": "11747",
-            "dcfDiff": -17.23211,
-            "dcf": 86.79211026224583,
             "image": "https://images.financialmodelingprep.com/symbol/HSIC.png",
             "ipoDate": "1995-11-03",
             "defaultImage": false,

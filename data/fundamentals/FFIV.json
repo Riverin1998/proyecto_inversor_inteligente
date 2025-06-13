@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FFIV",
-            "price": 288.2,
             "beta": 1.009,
-            "volAvg": 555531,
-            "mktCap": 16551787120,
             "lastDiv": 0,
             "range": "164.45-313",
-            "changes": 2.18,
             "companyName": "F5, Inc.",
             "currency": "USD",
             "cik": "0001048695",
@@ -28,8 +24,6 @@
             "city": "Seattle",
             "state": "WA",
             "zip": "98104-1663",
-            "dcfDiff": 27.86267,
-            "dcf": 258.1573264767306,
             "image": "https://images.financialmodelingprep.com/symbol/FFIV.png",
             "ipoDate": "1999-06-04",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DASH",
-            "price": 208.65,
             "beta": 1.679,
-            "volAvg": 6272023,
-            "mktCap": 88414208969,
             "lastDiv": 0,
             "range": "99.32-215.245",
-            "changes": 4.07,
             "companyName": "DoorDash, Inc.",
             "currency": "USD",
             "cik": "0001792789",
@@ -28,8 +24,6 @@
             "city": "San Francisco",
             "state": "CA",
             "zip": "94107",
-            "dcfDiff": 101.41982,
-            "dcf": 107.23017673580982,
             "image": "https://images.financialmodelingprep.com/symbol/DASH.png",
             "ipoDate": "2020-12-09",
             "defaultImage": false,

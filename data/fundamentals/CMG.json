@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CMG",
-            "price": 50.08,
             "beta": 1.116,
-            "volAvg": 13810339,
-            "mktCap": 67475788800,
             "lastDiv": 0,
             "range": "44.46-69.2614",
-            "changes": 0.35,
             "companyName": "Chipotle Mexican Grill, Inc.",
             "currency": "USD",
             "cik": "0001058090",
@@ -28,8 +24,6 @@
             "city": "Newport Beach",
             "state": "CA",
             "zip": "92660",
-            "dcfDiff": 21.09622,
-            "dcf": 28.983775050930202,
             "image": "https://images.financialmodelingprep.com/symbol/CMG.png",
             "ipoDate": "2006-01-26",
             "defaultImage": false,

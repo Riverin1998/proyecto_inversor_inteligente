@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "COF",
-            "price": 189.15,
             "beta": 1.135,
-            "volAvg": 5659303,
-            "mktCap": 121082102700,
             "lastDiv": 2.4,
             "range": "128.23-210.67",
-            "changes": -1.61,
             "companyName": "Capital One Financial Corporation",
             "currency": "USD",
             "cik": "0000927628",
@@ -28,8 +24,6 @@
             "city": "McLean",
             "state": "VA",
             "zip": "22102",
-            "dcfDiff": -238.6263,
-            "dcf": 435.4562971689508,
             "image": "https://images.financialmodelingprep.com/symbol/COF.png",
             "ipoDate": "1994-11-16",
             "defaultImage": false,

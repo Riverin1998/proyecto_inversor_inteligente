@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CDW",
-            "price": 180.36,
             "beta": 0.908,
-            "volAvg": 1487985,
-            "mktCap": 23750706600,
             "lastDiv": 2.495,
             "range": "137.31-241.26",
-            "changes": -1.99,
             "companyName": "CDW Corporation",
             "currency": "USD",
             "cik": "0001402057",
@@ -28,8 +24,6 @@
             "city": "Vernon Hills",
             "state": "IL",
             "zip": "60061",
-            "dcfDiff": 44.12562,
-            "dcf": 136.2343839023296,
             "image": "https://images.financialmodelingprep.com/symbol/CDW.png",
             "ipoDate": "2013-06-27",
             "defaultImage": false,

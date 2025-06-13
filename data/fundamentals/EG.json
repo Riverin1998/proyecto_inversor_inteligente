@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EG",
-            "price": 347.19,
             "beta": 0.578,
-            "volAvg": 430874,
-            "mktCap": 14767622493,
             "lastDiv": 8,
             "range": "320-407.3",
-            "changes": 0.84,
             "companyName": "Everest Re Group, Ltd.",
             "currency": "USD",
             "cik": "0001095073",
@@ -28,8 +24,6 @@
             "city": "Hamilton",
             "state": null,
             "zip": "HM 19",
-            "dcfDiff": -425.81126,
-            "dcf": 793.6212593732257,
             "image": "https://images.financialmodelingprep.com/symbol/EG.png",
             "ipoDate": "1995-10-03",
             "defaultImage": false,

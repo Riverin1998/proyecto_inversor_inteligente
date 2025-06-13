@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CBRE",
-            "price": 125.02,
             "beta": 1.303,
-            "volAvg": 2049977,
-            "mktCap": 37269087100,
             "lastDiv": 0,
             "range": "84.24-147.75",
-            "changes": 0.35,
             "companyName": "CBRE Group, Inc.",
             "currency": "USD",
             "cik": "0001138118",
@@ -28,8 +24,6 @@
             "city": "Dallas",
             "state": "TX",
             "zip": "75201",
-            "dcfDiff": 15.598,
-            "dcf": 109.42199781717423,
             "image": "https://images.financialmodelingprep.com/symbol/CBRE.png",
             "ipoDate": "2004-06-10",
             "defaultImage": false,

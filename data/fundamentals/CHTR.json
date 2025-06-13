@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CHTR",
-            "price": 396.27,
             "beta": 1.111,
-            "volAvg": 1472698,
-            "mktCap": 54738360180,
             "lastDiv": 0,
             "range": "272.49-437.06",
-            "changes": 0.46,
             "companyName": "Charter Communications, Inc.",
             "currency": "USD",
             "cik": "0001091667",
@@ -28,8 +24,6 @@
             "city": "Stamford",
             "state": "CT",
             "zip": "06902",
-            "dcfDiff": 98.3852,
-            "dcf": 297.8848009476017,
             "image": "https://images.financialmodelingprep.com/symbol/CHTR.png",
             "ipoDate": "2010-01-05",
             "defaultImage": false,

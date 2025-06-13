@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HES",
-            "price": 134.0375,
             "beta": 0.623,
-            "volAvg": 2000320,
-            "mktCap": 41453911663,
             "lastDiv": 2,
             "range": "123.79-161.69",
-            "changes": 0.2875,
             "companyName": "Hess Corporation",
             "currency": "USD",
             "cik": "0000004447",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10036",
-            "dcfDiff": 20.76353,
-            "dcf": 112.98647442829667,
             "image": "https://images.financialmodelingprep.com/symbol/HES.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

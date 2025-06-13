@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BLDR",
-            "price": 107.68,
             "beta": 1.794,
-            "volAvg": 1874553,
-            "mktCap": 11900255200,
             "lastDiv": 0,
             "range": "103.81-203.14",
-            "changes": -1.25,
             "companyName": "Builders FirstSource, Inc.",
             "currency": "USD",
             "cik": "0001316835",
@@ -28,8 +24,6 @@
             "city": "Irving",
             "state": "TX",
             "zip": "75201",
-            "dcfDiff": -178.5451,
-            "dcf": 286.22509700189994,
             "image": "https://images.financialmodelingprep.com/symbol/BLDR.png",
             "ipoDate": "2005-06-28",
             "defaultImage": false,

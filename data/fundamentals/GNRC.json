@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GNRC",
-            "price": 121.82,
             "beta": 1.731,
-            "volAvg": 865352,
-            "mktCap": 7197332694,
             "lastDiv": 0,
             "range": "99.5-195.94",
-            "changes": 1.18,
             "companyName": "Generac Holdings Inc.",
             "currency": "USD",
             "cik": "0001474735",
@@ -28,8 +24,6 @@
             "city": "Waukesha",
             "state": "WI",
             "zip": "53189",
-            "dcfDiff": -16.71991,
-            "dcf": 137.35990923005804,
             "image": "https://images.financialmodelingprep.com/symbol/GNRC.png",
             "ipoDate": "2010-02-11",
             "defaultImage": false,

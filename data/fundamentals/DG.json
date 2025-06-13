@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DG",
-            "price": 97.25,
             "beta": 0.277,
-            "volAvg": 4464366,
-            "mktCap": 21389845750,
             "lastDiv": 2.36,
             "range": "66.43-141.24",
-            "changes": 0.18,
             "companyName": "Dollar General Corporation",
             "currency": "USD",
             "cik": "0000029534",
@@ -28,8 +24,6 @@
             "city": "Goodlettsville",
             "state": "TN",
             "zip": "37072",
-            "dcfDiff": -197.15883,
-            "dcf": 298.13882536944163,
             "image": "https://images.financialmodelingprep.com/symbol/DG.png",
             "ipoDate": "2009-11-13",
             "defaultImage": false,

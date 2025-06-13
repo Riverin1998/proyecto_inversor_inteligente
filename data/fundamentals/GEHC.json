@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GEHC",
-            "price": 70.15,
             "beta": 1.377,
-            "volAvg": 5003412,
-            "mktCap": 32120632750,
             "lastDiv": 0.14,
             "range": "57.65-94.8",
-            "changes": 0.05,
             "companyName": "GE HealthCare Technologies Inc.",
             "currency": "USD",
             "cik": "0001932393",
@@ -28,8 +24,6 @@
             "city": "Chicago",
             "state": "IL",
             "zip": "60661",
-            "dcfDiff": 14.02972,
-            "dcf": 56.1202832745665,
             "image": "https://images.financialmodelingprep.com/symbol/GEHC.png",
             "ipoDate": "2022-12-15",
             "defaultImage": false,

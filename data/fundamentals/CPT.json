@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CPT",
-            "price": 117.49,
             "beta": 0.809,
-            "volAvg": 1055701,
-            "mktCap": 12552396620,
             "lastDiv": 4.14,
             "range": "102.35-127.69",
-            "changes": 0.58,
             "companyName": "Camden Property Trust",
             "currency": "USD",
             "cik": "0000906345",
@@ -28,8 +24,6 @@
             "city": "Houston",
             "state": "TX",
             "zip": "77046",
-            "dcfDiff": 41.04686,
-            "dcf": 76.44313858314784,
             "image": "https://images.financialmodelingprep.com/symbol/CPT.png",
             "ipoDate": "1993-07-22",
             "defaultImage": false,

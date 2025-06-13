@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EXPE",
-            "price": 166.75,
             "beta": 1.623,
-            "volAvg": 2464020,
-            "mktCap": 21197409408,
             "lastDiv": 1.6,
             "range": "110.2-207.73",
-            "changes": 1.1,
             "companyName": "Expedia Group, Inc.",
             "currency": "USD",
             "cik": "0001324424",
@@ -28,8 +24,6 @@
             "city": "Seattle",
             "state": "WA",
             "zip": "98119",
-            "dcfDiff": 167.27036,
-            "dcf": -0.5203573052507142,
             "image": "https://images.financialmodelingprep.com/symbol/EXPE.png",
             "ipoDate": "2005-07-21",
             "defaultImage": false,

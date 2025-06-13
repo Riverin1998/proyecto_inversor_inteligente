@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EXR",
-            "price": 151.15,
             "beta": 1.154,
-            "volAvg": 1126053,
-            "mktCap": 32075692650,
             "lastDiv": 6.48,
             "range": "121.03-184.87",
-            "changes": 0.34,
             "companyName": "Extra Space Storage Inc.",
             "currency": "USD",
             "cik": "0001289490",
@@ -28,8 +24,6 @@
             "city": "Salt Lake City",
             "state": "UT",
             "zip": "84121",
-            "dcfDiff": -13.33715,
-            "dcf": 164.48715062044138,
             "image": "https://images.financialmodelingprep.com/symbol/EXR.png",
             "ipoDate": "2004-08-16",
             "defaultImage": false,

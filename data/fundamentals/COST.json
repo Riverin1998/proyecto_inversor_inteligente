@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "COST",
-            "price": 1040.18,
             "beta": 0.99,
-            "volAvg": 2478773,
-            "mktCap": 461510182940,
             "lastDiv": 4.78,
             "range": "793-1078.23",
-            "changes": 31.44,
             "companyName": "Costco Wholesale Corporation",
             "currency": "USD",
             "cik": "0000909832",
@@ -28,8 +24,6 @@
             "city": "Issaquah",
             "state": "WA",
             "zip": "98027",
-            "dcfDiff": 633.48221,
-            "dcf": 406.6977910120441,
             "image": "https://images.financialmodelingprep.com/symbol/COST.png",
             "ipoDate": "1986-07-09",
             "defaultImage": false,

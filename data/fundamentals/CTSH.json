@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CTSH",
-            "price": 80.99,
             "beta": 0.928,
-            "volAvg": 4117023,
-            "mktCap": 39923372580,
             "lastDiv": 1.22,
             "range": "63.79-90.82",
-            "changes": 0.34,
             "companyName": "Cognizant Technology Solutions Corporation",
             "currency": "USD",
             "cik": "0001058290",
@@ -28,8 +24,6 @@
             "city": "Teaneck",
             "state": "NJ",
             "zip": "07666",
-            "dcfDiff": -22.97335,
-            "dcf": 103.96334697539915,
             "image": "https://images.financialmodelingprep.com/symbol/CTSH.png",
             "ipoDate": "1998-06-19",
             "defaultImage": false,

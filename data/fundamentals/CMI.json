@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CMI",
-            "price": 321.48,
             "beta": 1.014,
-            "volAvg": 942604,
-            "mktCap": 44285477400,
             "lastDiv": 7.28,
             "range": "260.02-387.9",
-            "changes": -3.38,
             "companyName": "Cummins Inc.",
             "currency": "USD",
             "cik": "0000026172",
@@ -28,8 +24,6 @@
             "city": "Columbus",
             "state": "IN",
             "zip": "47202-3005",
-            "dcfDiff": -61.08014,
-            "dcf": 382.56014274417447,
             "image": "https://images.financialmodelingprep.com/symbol/CMI.png",
             "ipoDate": "1947-10-03",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HII",
-            "price": 224.93,
             "beta": 0.303,
-            "volAvg": 699753,
-            "mktCap": 8826050763,
             "lastDiv": 5.35,
             "range": "158.88-285.81",
-            "changes": 2.13,
             "companyName": "Huntington Ingalls Industries, Inc.",
             "currency": "USD",
             "cik": "0001501585",
@@ -28,8 +24,6 @@
             "city": "Newport News",
             "state": "VA",
             "zip": "23607",
-            "dcfDiff": -393.26438,
-            "dcf": 598.1943754535996,
             "image": "https://images.financialmodelingprep.com/symbol/HII.png",
             "ipoDate": "2011-03-22",
             "defaultImage": false,

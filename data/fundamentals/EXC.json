@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EXC",
-            "price": 43.82,
             "beta": 0.513,
-            "volAvg": 8631612,
-            "mktCap": 44238042800,
             "lastDiv": 1.56,
             "range": "34.01-48.11",
-            "changes": 0.12,
             "companyName": "Exelon Corporation",
             "currency": "USD",
             "cik": "0001109357",
@@ -28,8 +24,6 @@
             "city": "Chicago",
             "state": "IL",
             "zip": "60680-5379",
-            "dcfDiff": 24.05941,
-            "dcf": 20.405593758499815,
             "image": "https://images.financialmodelingprep.com/symbol/EXC.png",
             "ipoDate": "1973-05-02",
             "defaultImage": false,

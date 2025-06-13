@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DVN",
-            "price": 30.26,
             "beta": 1.046,
-            "volAvg": 9572690,
-            "mktCap": 19429946000,
             "lastDiv": 1.25,
             "range": "25.89-49.35",
-            "changes": -0.85,
             "companyName": "Devon Energy Corporation",
             "currency": "USD",
             "cik": "0001090012",
@@ -28,8 +24,6 @@
             "city": "Oklahoma City",
             "state": "OK",
             "zip": "73102-5015",
-            "dcfDiff": -4.89596,
-            "dcf": 40.055956684505084,
             "image": "https://images.financialmodelingprep.com/symbol/DVN.png",
             "ipoDate": "1985-07-22",
             "defaultImage": false,

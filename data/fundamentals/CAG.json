@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CAG",
-            "price": 22.89,
             "beta": 0.178,
-            "volAvg": 6614671,
-            "mktCap": 10926816180,
             "lastDiv": 1.4,
             "range": "21.98-33.24",
-            "changes": 0.215,
             "companyName": "Conagra Brands, Inc.",
             "currency": "USD",
             "cik": "0000023217",
@@ -28,8 +24,6 @@
             "city": "Chicago",
             "state": "IL",
             "zip": "60654",
-            "dcfDiff": -31.64139,
-            "dcf": 54.53139349849074,
             "image": "https://images.financialmodelingprep.com/symbol/CAG.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

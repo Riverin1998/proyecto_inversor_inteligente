@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GPC",
-            "price": 128.455,
             "beta": 0.769,
-            "volAvg": 1503373,
-            "mktCap": 17828269450,
             "lastDiv": 4.03,
             "range": "104.01-149.22",
-            "changes": 0.185,
             "companyName": "Genuine Parts Company",
             "currency": "USD",
             "cik": "0000040987",
@@ -28,8 +24,6 @@
             "city": "Atlanta",
             "state": "GA",
             "zip": "30339",
-            "dcfDiff": -137.39197,
-            "dcf": 265.661974261575,
             "image": "https://images.financialmodelingprep.com/symbol/GPC.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

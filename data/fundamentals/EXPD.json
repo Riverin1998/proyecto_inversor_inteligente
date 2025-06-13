@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EXPD",
-            "price": 112.73,
             "beta": 1.087,
-            "volAvg": 1620017,
-            "mktCap": 15438148040,
             "lastDiv": 1.46,
             "range": "100.47-131.59",
-            "changes": -0.54,
             "companyName": "Expeditors International of Washington, Inc.",
             "currency": "USD",
             "cik": "0000746515",
@@ -28,8 +24,6 @@
             "city": "Seattle",
             "state": "WA",
             "zip": "98104",
-            "dcfDiff": -23.25006,
-            "dcf": 135.9800595989007,
             "image": "https://images.financialmodelingprep.com/symbol/EXPD.png",
             "ipoDate": "1984-09-26",
             "defaultImage": false,

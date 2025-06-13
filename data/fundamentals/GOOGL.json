@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GOOGL",
-            "price": 168.05,
             "beta": 1.014,
-            "volAvg": 39916331,
-            "mktCap": 2046671093868,
             "lastDiv": 0.8,
             "range": "140.53-207.05",
-            "changes": 1.87,
             "companyName": "Alphabet Inc.",
             "currency": "USD",
             "cik": "0001652044",
@@ -28,8 +24,6 @@
             "city": "Mountain View",
             "state": "CA",
             "zip": "94043",
-            "dcfDiff": -88.36323,
-            "dcf": 255.56823456137798,
             "image": "https://images.financialmodelingprep.com/symbol/GOOGL.png",
             "ipoDate": "2004-08-19",
             "defaultImage": false,

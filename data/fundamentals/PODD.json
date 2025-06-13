@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "PODD",
-            "price": 323.23,
             "beta": 1.266,
-            "volAvg": 885642,
-            "mktCap": 22747278927,
             "lastDiv": 0,
             "range": "173-329.33",
-            "changes": -1.77,
             "companyName": "Insulet Corporation",
             "currency": "USD",
             "cik": "0001145197",
@@ -28,8 +24,6 @@
             "city": "Acton",
             "state": "MA",
             "zip": "01720",
-            "dcfDiff": 349.33606,
-            "dcf": -24.336058112105473,
             "image": "https://images.financialmodelingprep.com/symbol/PODD.png",
             "ipoDate": "2007-05-15",
             "defaultImage": false,

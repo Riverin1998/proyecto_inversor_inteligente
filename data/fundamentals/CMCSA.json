@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CMCSA",
-            "price": 34.57,
             "beta": 0.967,
-            "volAvg": 25693777,
-            "mktCap": 128747668200,
             "lastDiv": 1.26,
             "range": "31.44-45.31",
-            "changes": 0.29,
             "companyName": "Comcast Corporation",
             "currency": "USD",
             "cik": "0001166691",
@@ -28,8 +24,6 @@
             "city": "Philadelphia",
             "state": "PA",
             "zip": "19103-2838",
-            "dcfDiff": -69.26732,
-            "dcf": 104.36732068837016,
             "image": "https://images.financialmodelingprep.com/symbol/CMCSA.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

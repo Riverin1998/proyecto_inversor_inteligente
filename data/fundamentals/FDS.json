@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FDS",
-            "price": 440.6,
             "beta": 0.852,
-            "volAvg": 318126,
-            "mktCap": 16719492260,
             "lastDiv": 4.22,
             "range": "391.69-499.87",
-            "changes": -15.96,
             "companyName": "FactSet Research Systems Inc.",
             "currency": "USD",
             "cik": "0001013237",
@@ -28,8 +24,6 @@
             "city": "Norwalk",
             "state": "CT",
             "zip": "06850",
-            "dcfDiff": 76.94268,
-            "dcf": 379.61732269900295,
             "image": "https://images.financialmodelingprep.com/symbol/FDS.png",
             "ipoDate": "1996-06-28",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HCA",
-            "price": 383.02,
             "beta": 1.504,
-            "volAvg": 1593539,
-            "mktCap": 92144653480,
             "lastDiv": 2.7,
             "range": "289.98-417.14",
-            "changes": 0.86,
             "companyName": "HCA Healthcare, Inc.",
             "currency": "USD",
             "cik": "0000860730",
@@ -28,8 +24,6 @@
             "city": "Nashville",
             "state": "TN",
             "zip": "37203",
-            "dcfDiff": 124.11944,
-            "dcf": 258.04055512329484,
             "image": "https://images.financialmodelingprep.com/symbol/HCA.png",
             "ipoDate": "2011-03-10",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FICO",
-            "price": 1734.61,
             "beta": 1.396,
-            "volAvg": 245596,
-            "mktCap": 42223356237,
             "lastDiv": 0,
             "range": "1285.27-2402.52",
-            "changes": -13.65,
             "companyName": "Fair Isaac Corporation",
             "currency": "USD",
             "cik": "0000814547",
@@ -28,8 +24,6 @@
             "city": "Bozeman",
             "state": "MT",
             "zip": "59715",
-            "dcfDiff": 1407.08634,
-            "dcf": 341.1736617606662,
             "image": "https://images.financialmodelingprep.com/symbol/FICO.png",
             "ipoDate": "1987-07-22",
             "defaultImage": false,

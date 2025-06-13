@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CZR",
-            "price": 26.88,
             "beta": 2.514,
-            "volAvg": 5945915,
-            "mktCap": 5590179840,
             "lastDiv": 0,
             "range": "21.4-45.93",
-            "changes": -0.39,
             "companyName": "Caesars Entertainment, Inc.",
             "currency": "USD",
             "cik": "0001590895",
@@ -28,8 +24,6 @@
             "city": "Reno",
             "state": "NV",
             "zip": "89501",
-            "dcfDiff": 4.39077,
-            "dcf": 56.8008,
             "image": "https://images.financialmodelingprep.com/symbol/CZR.png",
             "ipoDate": "2014-09-22",
             "defaultImage": false,

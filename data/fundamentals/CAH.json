@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CAH",
-            "price": 154.44,
             "beta": 0.674,
-            "volAvg": 2581858,
-            "mktCap": 36861275880,
             "lastDiv": 2.0224,
             "range": "93.17-156.44",
-            "changes": 0.45,
             "companyName": "Cardinal Health, Inc.",
             "currency": "USD",
             "cik": "0000721371",
@@ -28,8 +24,6 @@
             "city": "Dublin",
             "state": "OH",
             "zip": "43017",
-            "dcfDiff": -213.30257,
-            "dcf": 367.74257012521485,
             "image": "https://images.financialmodelingprep.com/symbol/CAH.png",
             "ipoDate": "1983-08-04",
             "defaultImage": false,

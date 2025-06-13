@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EQR",
-            "price": 70.14,
             "beta": 0.91,
-            "volAvg": 2023482,
-            "mktCap": 26649272160,
             "lastDiv": 2.7175,
             "range": "59.41-78.83",
-            "changes": 0.16,
             "companyName": "Equity Residential",
             "currency": "USD",
             "cik": "0000906107",
@@ -28,8 +24,6 @@
             "city": "Chicago",
             "state": "IL",
             "zip": "60606",
-            "dcfDiff": -18.09831,
-            "dcf": 88.23830845260652,
             "image": "https://images.financialmodelingprep.com/symbol/EQR.png",
             "ipoDate": "1993-08-12",
             "defaultImage": false,

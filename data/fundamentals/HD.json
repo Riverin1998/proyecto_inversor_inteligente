@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HD",
-            "price": 370.475,
             "beta": 1.018,
-            "volAvg": 3739161.9,
-            "mktCap": 368595950800,
             "lastDiv": 6.8,
             "range": "323.93-439.37",
-            "changes": 2.515,
             "companyName": "The Home Depot, Inc.",
             "currency": "USD",
             "cik": "0000354950",
@@ -28,8 +24,6 @@
             "city": "Atlanta",
             "state": "GA",
             "zip": "30339",
-            "dcfDiff": 58.83056,
-            "dcf": 309.12944365721023,
             "image": "https://images.financialmodelingprep.com/symbol/HD.png",
             "ipoDate": "1981-09-22",
             "defaultImage": false,

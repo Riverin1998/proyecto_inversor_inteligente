@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BMY",
-            "price": 48.28,
             "beta": 0.4,
-            "volAvg": 14850865,
-            "mktCap": 98253662400,
             "lastDiv": 2.44,
             "range": "39.35-63.33",
-            "changes": 0.43,
             "companyName": "Bristol-Myers Squibb Company",
             "currency": "USD",
             "cik": "0000014272",
@@ -28,8 +24,6 @@
             "city": "Princeton",
             "state": "NY",
             "zip": "10016",
-            "dcfDiff": -414.45057,
-            "dcf": 464.6206747299184,
             "image": "https://images.financialmodelingprep.com/symbol/BMY.png",
             "ipoDate": "1972-06-01",
             "defaultImage": false,

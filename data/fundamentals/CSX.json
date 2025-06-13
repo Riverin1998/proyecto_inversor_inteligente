@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CSX",
-            "price": 31.59,
             "beta": 1.22,
-            "volAvg": 16263885,
-            "mktCap": 59343394500,
             "lastDiv": 0.62,
             "range": "26.22-37.1",
-            "changes": 0.17,
             "companyName": "CSX Corporation",
             "currency": "USD",
             "cik": "0000277948",
@@ -28,8 +24,6 @@
             "city": "Jacksonville",
             "state": "FL",
             "zip": "32202",
-            "dcfDiff": -9.51469,
-            "dcf": 41.10468700948342,
             "image": "https://images.financialmodelingprep.com/symbol/CSX.png",
             "ipoDate": "1980-11-03",
             "defaultImage": false,

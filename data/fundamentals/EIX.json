@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EIX",
-            "price": 55.65,
             "beta": 0.77,
-            "volAvg": 3461187,
-            "mktCap": 21412116600,
             "lastDiv": 3.215,
             "range": "49.06-88.77",
-            "changes": -0.23,
             "companyName": "Edison International",
             "currency": "USD",
             "cik": "0000827052",
@@ -28,8 +24,6 @@
             "city": "Rosemead",
             "state": "CA",
             "zip": "91770",
-            "dcfDiff": 106.47119,
-            "dcf": -46.881186102140035,
             "image": "https://images.financialmodelingprep.com/symbol/EIX.png",
             "ipoDate": "1973-05-03",
             "defaultImage": false,

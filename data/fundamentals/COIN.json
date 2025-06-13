@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "COIN",
-            "price": 246.62,
             "beta": 3.625,
-            "volAvg": 11002530,
-            "mktCap": 62815337235,
             "lastDiv": 0,
             "range": "142.58-349.75",
-            "changes": -2.22,
             "companyName": "Coinbase Global, Inc.",
             "currency": "USD",
             "cik": "0001679788",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "DE",
             "zip": "19801",
-            "dcfDiff": 55.72369,
-            "dcf": 190.89631277957506,
             "image": "https://images.financialmodelingprep.com/symbol/COIN.png",
             "ipoDate": "2021-04-14",
             "defaultImage": false,

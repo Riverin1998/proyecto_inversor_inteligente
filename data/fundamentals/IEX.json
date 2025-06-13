@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "IEX",
-            "price": 179.665,
             "beta": 1.062,
-            "volAvg": 693976,
-            "mktCap": 13572720559,
             "lastDiv": 2.78,
             "range": "153.36-238.22",
-            "changes": 0.495,
             "companyName": "IDEX Corporation",
             "currency": "USD",
             "cik": "0000832101",
@@ -28,8 +24,6 @@
             "city": "Northbrook",
             "state": "IL",
             "zip": "60062",
-            "dcfDiff": -42.96715,
-            "dcf": 222.137148671329,
             "image": "https://images.financialmodelingprep.com/symbol/IEX.png",
             "ipoDate": "1989-06-02",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FTNT",
-            "price": 102.6,
             "beta": 1.168,
-            "volAvg": 5320160,
-            "mktCap": 78531681600,
             "lastDiv": 0,
             "range": "54.57-114.82",
-            "changes": 0.13,
             "companyName": "Fortinet, Inc.",
             "currency": "USD",
             "cik": "0001262039",
@@ -28,8 +24,6 @@
             "city": "Sunnyvale",
             "state": "CA",
             "zip": "94086",
-            "dcfDiff": -9.95573,
-            "dcf": 112.4257252465696,
             "image": "https://images.financialmodelingprep.com/symbol/FTNT.png",
             "ipoDate": "2009-11-18",
             "defaultImage": false,

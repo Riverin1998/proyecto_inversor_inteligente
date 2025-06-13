@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "D",
-            "price": 56.67,
             "beta": 0.57,
-            "volAvg": 5726695,
-            "mktCap": 48327665970,
             "lastDiv": 3.3375,
             "range": "47.99-61.97",
-            "changes": 0.65,
             "companyName": "Dominion Energy, Inc.",
             "currency": "USD",
             "cik": "0000715957",
@@ -28,8 +24,6 @@
             "city": "Richmond",
             "state": "VA",
             "zip": "23219",
-            "dcfDiff": 2.56062,
-            "dcf": 59.8894,
             "image": "https://images.financialmodelingprep.com/symbol/D.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

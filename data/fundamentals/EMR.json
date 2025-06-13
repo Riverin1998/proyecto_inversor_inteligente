@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EMR",
-            "price": 119.38,
             "beta": 1.248,
-            "volAvg": 3339663,
-            "mktCap": 67151250000,
             "lastDiv": 2.1075,
             "range": "90.06-134.85",
-            "changes": -0.54,
             "companyName": "Emerson Electric Co.",
             "currency": "USD",
             "cik": "0000032604",
@@ -28,8 +24,6 @@
             "city": "Saint Louis",
             "state": "MO",
             "zip": "63136",
-            "dcfDiff": 66.21278,
-            "dcf": 53.16722066631115,
             "image": "https://images.financialmodelingprep.com/symbol/EMR.png",
             "ipoDate": "1972-06-01",
             "defaultImage": false,

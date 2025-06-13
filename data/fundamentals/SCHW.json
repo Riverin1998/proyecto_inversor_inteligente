@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "SCHW",
-            "price": 88.34,
             "beta": 0.895,
-            "volAvg": 10344023,
-            "mktCap": 160511129800,
             "lastDiv": 1.04,
             "range": "61.01-89.85",
-            "changes": 0.58,
             "companyName": "The Charles Schwab Corporation",
             "currency": "USD",
             "cik": "0000316709",
@@ -28,8 +24,6 @@
             "city": "Westlake",
             "state": "TX",
             "zip": "76262",
-            "dcfDiff": -90.27977,
-            "dcf": 178.61977277150075,
             "image": "https://images.financialmodelingprep.com/symbol/SCHW.png",
             "ipoDate": "1987-09-22",
             "defaultImage": false,

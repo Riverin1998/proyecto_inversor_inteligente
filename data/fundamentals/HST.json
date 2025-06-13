@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HST",
-            "price": 15.455,
             "beta": 1.315,
-            "volAvg": 11077661,
-            "mktCap": 10721349870,
             "lastDiv": 0.9,
             "range": "12.22-19.36",
-            "changes": 0.015,
             "companyName": "Host Hotels & Resorts, Inc.",
             "currency": "USD",
             "cik": "0001070750",
@@ -28,8 +24,6 @@
             "city": "Bethesda",
             "state": "MD",
             "zip": "20817",
-            "dcfDiff": 30.53426,
-            "dcf": -15.094263458104646,
             "image": "https://images.financialmodelingprep.com/symbol/HST.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

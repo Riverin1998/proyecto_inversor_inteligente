@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HSY",
-            "price": 161.292,
             "beta": 0.305,
-            "volAvg": 1956448,
-            "mktCap": 32678414046,
             "lastDiv": 5.48,
             "range": "140.13-208.03",
-            "changes": -0.158,
             "companyName": "The Hershey Company",
             "currency": "USD",
             "cik": "0000047111",
@@ -28,8 +24,6 @@
             "city": "Hershey",
             "state": "PA",
             "zip": "17033",
-            "dcfDiff": -269.23862,
-            "dcf": 430.6886206871597,
             "image": "https://images.financialmodelingprep.com/symbol/HSY.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

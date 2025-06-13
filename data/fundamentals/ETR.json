@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ETR",
-            "price": 83.28,
             "beta": 0.603,
-            "volAvg": 4112965,
-            "mktCap": 35874858720,
             "lastDiv": 2.965,
             "range": "52.065-88.38",
-            "changes": 0.92,
             "companyName": "Entergy Corporation",
             "currency": "USD",
             "cik": "0000065984",
@@ -28,8 +24,6 @@
             "city": "New Orleans",
             "state": "LA",
             "zip": "70113",
-            "dcfDiff": 169.93337,
-            "dcf": -84.84337363383555,
             "image": "https://images.financialmodelingprep.com/symbol/ETR.png",
             "ipoDate": "1972-06-01",
             "defaultImage": false,

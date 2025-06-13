@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EVRG",
-            "price": 66.41,
             "beta": 0.505,
-            "volAvg": 2545720,
-            "mktCap": 15280343310,
             "lastDiv": 2.645,
             "range": "52.1-70.36",
-            "changes": 0.18,
             "companyName": "Evergy, Inc.",
             "currency": "USD",
             "cik": "0001711269",
@@ -28,8 +24,6 @@
             "city": "Kansas City",
             "state": "MO",
             "zip": "64105",
-            "dcfDiff": 90.48954,
-            "dcf": -21.609542830515636,
             "image": "https://images.financialmodelingprep.com/symbol/EVRG.png",
             "ipoDate": "2018-06-04",
             "defaultImage": false,

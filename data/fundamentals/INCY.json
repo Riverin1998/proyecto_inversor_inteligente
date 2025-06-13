@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "INCY",
-            "price": 65.59,
             "beta": 0.676,
-            "volAvg": 2037677,
-            "mktCap": 12696256300,
             "lastDiv": 0,
             "range": "53.56-83.95",
-            "changes": 0.28,
             "companyName": "Incyte Corporation",
             "currency": "USD",
             "cik": "0000879169",
@@ -28,8 +24,6 @@
             "city": "Wilmington",
             "state": "DE",
             "zip": "19803",
-            "dcfDiff": -39.63076,
-            "dcf": 104.94076267305329,
             "image": "https://images.financialmodelingprep.com/symbol/INCY.png",
             "ipoDate": "1993-11-04",
             "defaultImage": false,

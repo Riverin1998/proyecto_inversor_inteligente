@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HLT",
-            "price": 249.78,
             "beta": 1.234,
-            "volAvg": 2481674,
-            "mktCap": 59372706000,
             "lastDiv": 0.6,
             "range": "196.04-275.22",
-            "changes": 0.65,
             "companyName": "Hilton Worldwide Holdings Inc.",
             "currency": "USD",
             "cik": "0001585689",
@@ -28,8 +24,6 @@
             "city": "McLean",
             "state": "VA",
             "zip": "22102",
-            "dcfDiff": -16.69648,
-            "dcf": 265.826479351066,
             "image": "https://images.financialmodelingprep.com/symbol/HLT.png",
             "ipoDate": "2013-12-12",
             "defaultImage": false,

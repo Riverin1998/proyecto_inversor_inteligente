@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CRWD",
-            "price": 471.37,
             "beta": 1.219,
-            "volAvg": 4289534,
-            "mktCap": 117406011380,
             "lastDiv": 0,
             "range": "200.81-474.23",
-            "changes": 12.56,
             "companyName": "CrowdStrike Holdings, Inc.",
             "currency": "USD",
             "cik": "0001535527",
@@ -28,8 +24,6 @@
             "city": "Austin",
             "state": "TX",
             "zip": "78701",
-            "dcfDiff": 113.1788,
-            "dcf": 358.19120146232905,
             "image": "https://images.financialmodelingprep.com/symbol/CRWD.png",
             "ipoDate": "2019-06-12",
             "defaultImage": false,

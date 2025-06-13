@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CL",
-            "price": 92.94,
             "beta": 0.392,
-            "volAvg": 5659592,
-            "mktCap": 75320434800,
             "lastDiv": 2.02,
             "range": "85.32-109.3",
-            "changes": 0.64,
             "companyName": "Colgate-Palmolive Company",
             "currency": "USD",
             "cik": "0000021665",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10022-7499",
-            "dcfDiff": -74.10655,
-            "dcf": 167.04654521725874,
             "image": "https://images.financialmodelingprep.com/symbol/CL.png",
             "ipoDate": "1973-05-02",
             "defaultImage": false,

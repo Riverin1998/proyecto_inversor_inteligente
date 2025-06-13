@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FANG",
-            "price": 134.55,
             "beta": 1.035,
-            "volAvg": 2687298,
-            "mktCap": 39311204400,
             "lastDiv": 5.24,
             "range": "114-214.5",
-            "changes": -3.26,
             "companyName": "Diamondback Energy, Inc.",
             "currency": "USD",
             "cik": "0001539838",
@@ -28,8 +24,6 @@
             "city": "Midland",
             "state": "TX",
             "zip": "79701",
-            "dcfDiff": -221.36893,
-            "dcf": 365.21893453475525,
             "image": "https://images.financialmodelingprep.com/symbol/FANG.png",
             "ipoDate": "2012-10-12",
             "defaultImage": false,

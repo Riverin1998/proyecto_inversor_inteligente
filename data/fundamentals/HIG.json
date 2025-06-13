@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HIG",
-            "price": 128.99,
             "beta": 0.706,
-            "volAvg": 1768150.8,
-            "mktCap": 36646445970,
             "lastDiv": 2.08,
             "range": "98.16-132.09",
-            "changes": -0.88,
             "companyName": "The Hartford Financial Services Group, Inc.",
             "currency": "USD",
             "cik": "0000874766",
@@ -28,8 +24,6 @@
             "city": "Hartford",
             "state": "CT",
             "zip": "06155",
-            "dcfDiff": -260.62689,
-            "dcf": 391.6068897687489,
             "image": "https://images.financialmodelingprep.com/symbol/HIG.png",
             "ipoDate": "1995-12-15",
             "defaultImage": false,

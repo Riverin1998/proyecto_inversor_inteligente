@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DTE",
-            "price": 136.65,
             "beta": 0.469,
-            "volAvg": 1568233,
-            "mktCap": 28357061400,
             "lastDiv": 4.22,
             "range": "108.4-140.39",
-            "changes": 0.39,
             "companyName": "DTE Energy Company",
             "currency": "USD",
             "cik": "0000936340",
@@ -28,8 +24,6 @@
             "city": "Detroit",
             "state": "MI",
             "zip": "48226-1279",
-            "dcfDiff": 200.61167,
-            "dcf": -63.961670623830756,
             "image": "https://images.financialmodelingprep.com/symbol/DTE.png",
             "ipoDate": "1970-01-02",
             "defaultImage": false,

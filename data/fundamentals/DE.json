@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DE",
-            "price": 506.26,
             "beta": 1.094,
-            "volAvg": 1403793,
-            "mktCap": 137406051640,
             "lastDiv": 6.18,
             "range": "340.2-533.78",
-            "changes": 2.81,
             "companyName": "Deere & Company",
             "currency": "USD",
             "cik": "0000315189",
@@ -28,8 +24,6 @@
             "city": "Moline",
             "state": "IL",
             "zip": "61265",
-            "dcfDiff": 281.23255,
-            "dcf": 225.0274523902304,
             "image": "https://images.financialmodelingprep.com/symbol/DE.png",
             "ipoDate": "1972-06-01",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "DHR",
-            "price": 189.9,
             "beta": 0.834,
-            "volAvg": 4234152,
-            "mktCap": 135905733000,
             "lastDiv": 1.13,
             "range": "171-281.7",
-            "changes": -0.57,
             "companyName": "Danaher Corporation",
             "currency": "USD",
             "cik": "0000313616",
@@ -28,8 +24,6 @@
             "city": "Washington",
             "state": "DC",
             "zip": "20037-1701",
-            "dcfDiff": -19.73723,
-            "dcf": 209.63723222443392,
             "image": "https://images.financialmodelingprep.com/symbol/DHR.png",
             "ipoDate": "1978-12-29",
             "defaultImage": false,

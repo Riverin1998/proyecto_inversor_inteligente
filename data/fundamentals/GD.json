@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GD",
-            "price": 275.92,
             "beta": 0.497,
-            "volAvg": 1509671,
-            "mktCap": 74055824320,
             "lastDiv": 5.76,
             "range": "239.2-316.9",
-            "changes": 0.215,
             "companyName": "General Dynamics Corporation",
             "currency": "USD",
             "cik": "0000040533",
@@ -28,8 +24,6 @@
             "city": "Reston",
             "state": "VA",
             "zip": "20190",
-            "dcfDiff": -122.36163,
-            "dcf": 398.0716262371777,
             "image": "https://images.financialmodelingprep.com/symbol/GD.png",
             "ipoDate": "1978-01-13",
             "defaultImage": false,

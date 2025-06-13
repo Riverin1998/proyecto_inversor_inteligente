@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FSLR",
-            "price": 152.21,
             "beta": 1.527,
-            "volAvg": 5132781,
-            "mktCap": 16323609240,
             "lastDiv": 0,
             "range": "116.56-306.77",
-            "changes": 2.56,
             "companyName": "First Solar, Inc.",
             "currency": "USD",
             "cik": "0001274494",
@@ -28,8 +24,6 @@
             "city": "Tempe",
             "state": "AZ",
             "zip": "85281",
-            "dcfDiff": 240.83219,
-            "dcf": -91.18219396423936,
             "image": "https://images.financialmodelingprep.com/symbol/FSLR.png",
             "ipoDate": "2006-11-17",
             "defaultImage": false,

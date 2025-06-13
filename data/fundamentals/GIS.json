@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GIS",
-            "price": 53.925,
             "beta": 0.017,
-            "volAvg": 5923871,
-            "mktCap": 29529383925,
             "lastDiv": 2.4,
             "range": "52.39-75.9",
-            "changes": -0.205,
             "companyName": "General Mills, Inc.",
             "currency": "USD",
             "cik": "0000040704",
@@ -28,8 +24,6 @@
             "city": "Minneapolis",
             "state": "MN",
             "zip": "55426",
-            "dcfDiff": -75.71045,
-            "dcf": 129.84044790311765,
             "image": "https://images.financialmodelingprep.com/symbol/GIS.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

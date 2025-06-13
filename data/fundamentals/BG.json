@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BG",
-            "price": 78.15,
             "beta": 0.665,
-            "volAvg": 1853784,
-            "mktCap": 10503750750,
             "lastDiv": 2.74,
             "range": "67.4-114.92",
-            "changes": -1.07,
             "companyName": "Bunge Global SA",
             "currency": "USD",
             "cik": "0001996862",
@@ -28,8 +24,6 @@
             "city": "Chesterfield",
             "state": "MO",
             "zip": "63017",
-            "dcfDiff": -48.53909,
-            "dcf": 123.60909041770236,
             "image": "https://images.financialmodelingprep.com/symbol/BG.png",
             "ipoDate": "2001-08-02",
             "defaultImage": false,

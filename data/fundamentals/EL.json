@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EL",
-            "price": 66.94,
             "beta": 1.111,
-            "volAvg": 4072468,
-            "mktCap": 24081795935,
             "lastDiv": 2.02,
             "range": "48.37-125.9",
-            "changes": -1.73,
             "companyName": "The Est\u00e9e Lauder Companies Inc.",
             "currency": "USD",
             "cik": "0001001250",
@@ -28,8 +24,6 @@
             "city": "New York",
             "state": "NY",
             "zip": "10153",
-            "dcfDiff": -18.25867,
-            "dcf": 85.19867106746327,
             "image": "https://images.financialmodelingprep.com/symbol/EL.png",
             "ipoDate": "1995-11-17",
             "defaultImage": false,

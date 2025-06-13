@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CAT",
-            "price": 348.03,
             "beta": 1.346,
-            "volAvg": 2946550,
-            "mktCap": 163683729450,
             "lastDiv": 5.64,
             "range": "267.3-418.5",
-            "changes": -3.76,
             "companyName": "Caterpillar Inc.",
             "currency": "USD",
             "cik": "0000018230",
@@ -28,8 +24,6 @@
             "city": "Deerfield",
             "state": "IL",
             "zip": "60015",
-            "dcfDiff": 81.49142,
-            "dcf": 266.53858264271196,
             "image": "https://images.financialmodelingprep.com/symbol/CAT.png",
             "ipoDate": "1929-12-02",
             "defaultImage": false,

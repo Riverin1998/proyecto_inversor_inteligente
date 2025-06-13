@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FE",
-            "price": 41.2,
             "beta": 0.397,
-            "volAvg": 5268912,
-            "mktCap": 23778827200,
             "lastDiv": 1.72,
             "range": "37.58-44.97",
-            "changes": -0.3,
             "companyName": "FirstEnergy Corp.",
             "currency": "USD",
             "cik": "0001031296",
@@ -28,8 +24,6 @@
             "city": "Akron",
             "state": "OH",
             "zip": "44308",
-            "dcfDiff": 0.0625682,
-            "dcf": 41.2926,
             "image": "https://images.financialmodelingprep.com/symbol/FE.png",
             "ipoDate": "1997-11-10",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CBOE",
-            "price": 229.12,
             "beta": 0.434,
-            "volAvg": 996430,
-            "mktCap": 23991842560,
             "lastDiv": 2.52,
             "range": "166.13-236.02",
-            "changes": 1.88,
             "companyName": "Cboe Global Markets, Inc.",
             "currency": "USD",
             "cik": "0001374310",
@@ -28,8 +24,6 @@
             "city": "Chicago",
             "state": "IL",
             "zip": "60607",
-            "dcfDiff": -58.08716,
-            "dcf": 287.20715877603715,
             "image": "https://images.financialmodelingprep.com/symbol/CBOE.png",
             "ipoDate": "2010-06-15",
             "defaultImage": false,

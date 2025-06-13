@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ELV",
-            "price": 383.84,
             "beta": 0.665,
-            "volAvg": 1799360,
-            "mktCap": 86722890400,
             "lastDiv": 6.6,
             "range": "357.45-567.26",
-            "changes": 3.31,
             "companyName": "Elevance Health Inc.",
             "currency": "USD",
             "cik": "0001156039",
@@ -28,8 +24,6 @@
             "city": "Indianapolis",
             "state": "IN",
             "zip": "46204",
-            "dcfDiff": -767.56532,
-            "dcf": 1157.39531764046,
             "image": "https://images.financialmodelingprep.com/symbol/ELV.png",
             "ipoDate": "2001-10-30",
             "defaultImage": false,

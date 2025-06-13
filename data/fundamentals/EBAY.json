@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EBAY",
-            "price": 73.17,
             "beta": 1.291,
-            "volAvg": 5778161,
-            "mktCap": 33719955480,
             "lastDiv": 1.12,
             "range": "51.72-73.34",
-            "changes": 0.435,
             "companyName": "eBay Inc.",
             "currency": "USD",
             "cik": "0001065088",
@@ -28,8 +24,6 @@
             "city": "San Jose",
             "state": "CA",
             "zip": "95125",
-            "dcfDiff": 27.09379,
-            "dcf": 46.07620750833147,
             "image": "https://images.financialmodelingprep.com/symbol/EBAY.png",
             "ipoDate": "1998-09-24",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HWM",
-            "price": 173.34,
             "beta": 1.372,
-            "volAvg": 3043980,
-            "mktCap": 69972851160,
             "lastDiv": 0.36,
             "range": "76.83-174.66",
-            "changes": 0.69,
             "companyName": "Howmet Aerospace Inc.",
             "currency": "USD",
             "cik": "0000004281",
@@ -28,8 +24,6 @@
             "city": "Pittsburgh",
             "state": "PA",
             "zip": "15212-5872",
-            "dcfDiff": 156.0238,
-            "dcf": 16.626202904947643,
             "image": "https://images.financialmodelingprep.com/symbol/HWM.png",
             "ipoDate": "2016-11-01",
             "defaultImage": false,

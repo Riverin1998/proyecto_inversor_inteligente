@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HPE",
-            "price": 17.255,
             "beta": 1.329,
-            "volAvg": 22391561,
-            "mktCap": 22665822900,
             "lastDiv": 0.52,
             "range": "11.965-24.66",
-            "changes": -0.085,
             "companyName": "Hewlett Packard Enterprise Company",
             "currency": "USD",
             "cik": "0001645590",
@@ -28,8 +24,6 @@
             "city": "Spring",
             "state": "TX",
             "zip": "77070",
-            "dcfDiff": -10.7245,
-            "dcf": 28.06450491723242,
             "image": "https://images.financialmodelingprep.com/symbol/HPE.png",
             "ipoDate": "2015-10-19",
             "defaultImage": false,

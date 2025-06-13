@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "BXP",
-            "price": 67.33,
             "beta": 1.148,
-            "volAvg": 1551131,
-            "mktCap": 10660022250,
             "lastDiv": 3.92,
             "range": "54.22-90.11",
-            "changes": -1.52,
             "companyName": "Boston Properties, Inc.",
             "currency": "USD",
             "cik": "0001037540",
@@ -28,8 +24,6 @@
             "city": "Boston",
             "state": "MA",
             "zip": "02199",
-            "dcfDiff": -35.25055,
-            "dcf": 106.18055161354741,
             "image": "https://images.financialmodelingprep.com/symbol/BXP.png",
             "ipoDate": "1997-06-18",
             "defaultImage": false,

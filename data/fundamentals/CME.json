@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CME",
-            "price": 289,
             "beta": 0.466,
-            "volAvg": 2697790,
-            "mktCap": 104142884000,
             "lastDiv": 10.5,
             "range": "190.7-290.1",
-            "changes": 3.13,
             "companyName": "CME Group Inc.",
             "currency": "USD",
             "cik": "0001156375",
@@ -28,8 +24,6 @@
             "city": "Chicago",
             "state": "IL",
             "zip": "60606",
-            "dcfDiff": 5.13357,
-            "dcf": 283.8664262152975,
             "image": "https://images.financialmodelingprep.com/symbol/CME.png",
             "ipoDate": "2002-12-06",
             "defaultImage": false,

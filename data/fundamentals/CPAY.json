@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CPAY",
-            "price": 325.11,
             "beta": 0.979,
-            "volAvg": 507688,
-            "mktCap": 22918141785,
             "lastDiv": 0,
             "range": "247.1-400.81",
-            "changes": -4.5,
             "companyName": "Corpay, Inc.",
             "currency": "USD",
             "cik": "0001175454",
@@ -28,8 +24,6 @@
             "city": "Atlanta",
             "state": "GA",
             "zip": "30305",
-            "dcfDiff": -322.51342,
-            "dcf": 647.6234168981094,
             "image": "https://images.financialmodelingprep.com/symbol/CPAY.png",
             "ipoDate": "2010-12-15",
             "defaultImage": false,

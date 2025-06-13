@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CEG",
-            "price": 306.15,
             "beta": 1.009,
-            "volAvg": 3900793,
-            "mktCap": 95952724764,
             "lastDiv": 1.4806,
             "range": "155.6-352",
-            "changes": 2.78,
             "companyName": "Constellation Energy Corporation",
             "currency": "USD",
             "cik": "0001868275",
@@ -28,8 +24,6 @@
             "city": "Baltimore",
             "state": "MD",
             "zip": "21231-3380",
-            "dcfDiff": 94.55427,
-            "dcf": 123.43573151864578,
             "image": "https://images.financialmodelingprep.com/symbol/CEG.png",
             "ipoDate": "2022-01-19",
             "defaultImage": false,

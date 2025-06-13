@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "XOM",
-            "price": 102.3,
             "beta": 0.475,
-            "volAvg": 17629887,
-            "mktCap": 440876172000,
             "lastDiv": 3.92,
             "range": "97.8-126.34",
-            "changes": -0.39,
             "companyName": "Exxon Mobil Corporation",
             "currency": "USD",
             "cik": "0000034088",
@@ -28,8 +24,6 @@
             "city": "Irving",
             "state": "TX",
             "zip": "75039-2298",
-            "dcfDiff": -183.55628,
-            "dcf": 302.2262838585208,
             "image": "https://images.financialmodelingprep.com/symbol/XOM.png",
             "ipoDate": "1978-01-13",
             "defaultImage": false,

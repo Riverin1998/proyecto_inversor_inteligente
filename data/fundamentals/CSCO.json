@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "CSCO",
-            "price": 63.04,
             "beta": 0.888,
-            "volAvg": 23371779,
-            "mktCap": 249638400000,
             "lastDiv": 1.61,
             "range": "44.5-66.5",
-            "changes": -0.01,
             "companyName": "Cisco Systems, Inc.",
             "currency": "USD",
             "cik": "0000858877",
@@ -28,8 +24,6 @@
             "city": "San Jose",
             "state": "CA",
             "zip": "95134-1706",
-            "dcfDiff": 2.13006,
-            "dcf": 60.909942629667896,
             "image": "https://images.financialmodelingprep.com/symbol/CSCO.png",
             "ipoDate": "1990-02-16",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HON",
-            "price": 226.42,
             "beta": 1.058,
-            "volAvg": 4630209,
-            "mktCap": 145516284860,
             "lastDiv": 4.47,
             "range": "179.36-242.77",
-            "changes": 0.9,
             "companyName": "Honeywell International Inc.",
             "currency": "USD",
             "cik": "0000773840",
@@ -28,8 +24,6 @@
             "city": "Charlotte",
             "state": "NC",
             "zip": "28202",
-            "dcfDiff": 65.63166,
-            "dcf": 159.88833923344902,
             "image": "https://images.financialmodelingprep.com/symbol/HON.png",
             "ipoDate": "2001-02-21",
             "defaultImage": false,

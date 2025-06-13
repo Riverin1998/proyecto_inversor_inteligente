@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "COP",
-            "price": 85.35,
             "beta": 0.645,
-            "volAvg": 9583758,
-            "mktCap": 107746693500,
             "lastDiv": 3.12,
             "range": "79.88-118.4",
-            "changes": -0.25,
             "companyName": "ConocoPhillips",
             "currency": "USD",
             "cik": "0001163165",
@@ -28,8 +24,6 @@
             "city": "Houston",
             "state": "TX",
             "zip": "77079-2703",
-            "dcfDiff": -165.81958,
-            "dcf": 263.26957782820006,
             "image": "https://images.financialmodelingprep.com/symbol/COP.png",
             "ipoDate": "1981-12-31",
             "defaultImage": false,

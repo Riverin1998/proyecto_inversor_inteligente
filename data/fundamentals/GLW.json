@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "GLW",
-            "price": 49.59,
             "beta": 1.078,
-            "volAvg": 6431619,
-            "mktCap": 42472396890,
             "lastDiv": 1.12,
             "range": "36.58-55.33",
-            "changes": -0.37,
             "companyName": "Corning Incorporated",
             "currency": "USD",
             "cik": "0000024741",
@@ -28,8 +24,6 @@
             "city": "Corning",
             "state": "NY",
             "zip": "14831",
-            "dcfDiff": 26.0565,
-            "dcf": 23.533496866955616,
             "image": "https://images.financialmodelingprep.com/symbol/GLW.png",
             "ipoDate": "1981-12-31",
             "defaultImage": false,

@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "FI",
-            "price": 158.2,
             "beta": 0.911,
-            "volAvg": 4817620,
-            "mktCap": 87711458800,
             "lastDiv": 0,
             "range": "146.25-238.59",
-            "changes": -3.8,
             "companyName": "Fiserv, Inc.",
             "currency": "USD",
             "cik": "0000798354",
@@ -28,8 +24,6 @@
             "city": "Milwaukee",
             "state": "WI",
             "zip": "53045",
-            "dcfDiff": 24.74273,
-            "dcf": 137.25727216617562,
             "image": "https://images.financialmodelingprep.com/symbol/FI.png",
             "ipoDate": "1986-09-25",
             "defaultImage": false,

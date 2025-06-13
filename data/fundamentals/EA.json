@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "EA",
-            "price": 143.78,
             "beta": 0.746,
-            "volAvg": 3482431,
-            "mktCap": 36055135480,
             "lastDiv": 0.76,
             "range": "115.21-168.5",
-            "changes": 0.94,
             "companyName": "Electronic Arts Inc.",
             "currency": "USD",
             "cik": "0000712515",
@@ -28,8 +24,6 @@
             "city": "Redwood City",
             "state": "CA",
             "zip": "94065",
-            "dcfDiff": -129.00148,
-            "dcf": 272.781479649304,
             "image": "https://images.financialmodelingprep.com/symbol/EA.png",
             "ipoDate": "1989-09-20",
             "defaultImage": false,

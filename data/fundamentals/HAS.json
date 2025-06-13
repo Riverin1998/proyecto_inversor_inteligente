@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "HAS",
-            "price": 65.3,
             "beta": 0.537,
-            "volAvg": 2162931,
-            "mktCap": 9150423700,
             "lastDiv": 2.8,
             "range": "49-73.46",
-            "changes": -0.25,
             "companyName": "Hasbro, Inc.",
             "currency": "USD",
             "cik": "0000046080",
@@ -28,8 +24,6 @@
             "city": "Pawtucket",
             "state": "RI",
             "zip": "02861-1059",
-            "dcfDiff": -37.15558,
-            "dcf": 102.70558216624431,
             "image": "https://images.financialmodelingprep.com/symbol/HAS.png",
             "ipoDate": "1980-03-17",
             "defaultImage": false,

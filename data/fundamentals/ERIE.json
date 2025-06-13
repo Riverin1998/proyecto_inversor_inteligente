@@ -2,13 +2,9 @@
     "profile": [
         {
             "symbol": "ERIE",
-            "price": 358.51,
             "beta": 0.369,
-            "volAvg": 143604,
-            "mktCap": 16559254241,
             "lastDiv": 5.28,
             "range": "343.76-547",
-            "changes": 2.47,
             "companyName": "Erie Indemnity Company",
             "currency": "USD",
             "cik": "0000922621",
@@ -28,8 +24,6 @@
             "city": "Erie",
             "state": "PA",
             "zip": "16530-0001",
-            "dcfDiff": 39.57544,
-            "dcf": 318.9345552592576,
             "image": "https://images.financialmodelingprep.com/symbol/ERIE.png",
             "ipoDate": "1995-10-02",
             "defaultImage": false,
