@@ -74,6 +74,26 @@ def clean_invalid_json_files(directory: str):
                     logging.warning(f"⚠️ No se pudo eliminar {filename}: {e}")
     logging.info(f"✅ Limpieza completada. Eliminados: {removed}")
 
+# 🧼 LIMPIEZA CAMPOS VOLÁTILES
+def clean_profile_fields_if_needed(path):
+    try:
+        with open(path, "r+") as f:
+            data = json.load(f)
+            if "profile" in data and isinstance(data["profile"], list) and data["profile"]:
+                profile = data["profile"][0]
+                changed = False
+                for key in ["price", "volAvg", "mktCap", "changes", "dcf", "dcfDiff"]:
+                    if key in profile:
+                        profile.pop(key)
+                        changed = True
+                if changed:
+                    f.seek(0)
+                    json.dump(data, f, indent=4)
+                    f.truncate()
+                    logging.info(f"♻️ Limpieza post-descarga: {os.path.basename(path)}")
+    except Exception as e:
+        logging.warning(f"⚠️ Error limpiando campos volátiles en {path}: {e}")
+
 # 📥 DESCARGA DE DATOS FUNDAMENTALES
 def download_fundamentals(ticker: str, output_dir: str = OUTPUT_DIR) -> bool:
     endpoints = {
@@ -119,9 +139,14 @@ def bulk_download_fundamentals(tickers, output_dir=OUTPUT_DIR):
     clean_invalid_json_files(output_dir)
     for i, ticker in enumerate(tickers, 1):
         output_path = os.path.join(output_dir, f"{ticker.upper()}.json")
+
+        if os.path.exists(output_path):
+            clean_profile_fields_if_needed(output_path)
+
         if os.path.exists(output_path) and not needs_update_last_5_years(output_path):
             logging.info(f"⏭️ {i}/{len(tickers)} - Ya actualizado: {ticker}")
             continue
+        
         logging.info(f"🔄 {i}/{len(tickers)} - Descargando: {ticker}")
         success = download_fundamentals(ticker, output_dir)
         if not success:
