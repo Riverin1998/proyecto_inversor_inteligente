@@ -94,6 +94,17 @@ def clean_profile_fields_if_needed(path):
     except Exception as e:
         logging.warning(f"⚠️ Error limpiando campos volátiles en {path}: {e}")
 
+# ♻️ LIMPIEZA MASIVA DE JSONS YA GUARDADOS
+def clean_all_profiles_in_directory(directory: str):
+    logging.info(f"♻️ Limpieza de perfiles en JSON existentes en: {directory}")
+    total = 0
+    for filename in os.listdir(directory):
+        if filename.endswith(".json"):
+            path = os.path.join(directory, filename)
+            clean_profile_fields_if_needed(path)
+            total += 1
+    logging.info(f"✅ Limpieza completada. Archivos procesados: {total}")
+
 # 📥 DESCARGA DE DATOS FUNDAMENTALES
 def download_fundamentals(ticker: str, output_dir: str = OUTPUT_DIR) -> bool:
     endpoints = {
@@ -149,9 +160,14 @@ def bulk_download_fundamentals(tickers, output_dir=OUTPUT_DIR):
         
         logging.info(f"🔄 {i}/{len(tickers)} - Descargando: {ticker}")
         success = download_fundamentals(ticker, output_dir)
-        if not success:
+        if success == "rate_limit":
+            logging.warning("⏸️ Límite alcanzado. Deteniendo descargas pero limpiando perfiles existentes...")
+            break
+        elif not success:
             logging.error("⛔ Proceso detenido por error crítico.")
             break
+    # ✅ Limpieza masiva final
+    clean_all_profiles_in_directory(output_dir)
 
 # 🎯 MAIN
 if __name__ == "__main__":
